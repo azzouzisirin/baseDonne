@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6464d079d6517b769cb294d2"
+  },
+  "nom": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686816546/rphk9woofm6dsvmo1tn2.jpg",
+  "numOrdre": 1,
+  "textHome": "Nos cours de formation en génie mécanique sont dispensés par des consultants en ingénierie ayant une réelle expertise. Cela vous permettra de développer des compétences en tant que praticien efficace, ainsi que la possibilité d'améliorer des capacités spécifiques. Celles-ci incluent divers sujets tels que la CAO, la FAO, les systèmes de tuyauterie, la simulation etc."
+},
+{
+  "_id": {
+    "$oid": "6464d0a3d6517b769cb294d5"
+  },
+  "nom": "DAO et Architecture",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685352261/hofpur8mzi9kujdnrcor.jpg",
+  "numOrdre": 2,
+  "textHome": "Nos formations DAO sont destinées aux architectes et au personnel du bureau d’études afin de pouvoir appréhender des logiciel comme Autocad, Revit, Archicad ... et monter rapidement en compétence."
+},
+{
+  "_id": {
+    "$oid": "647471d7431e840de9cdab49"
+  },
+  "nom": "Design",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685352895/vbywynmrsploxyyxjwap.jpg",
+  "numOrdre": 3,
+  "textHome": "Nos formations Design sont basées sur des conceptions assistées par un logiciel informatique et elles sont destinées essentiellement au deux domaines qui sont l’architecture et l’industrielle"
+},
+{
+  "_id": {
+    "$oid": "647476aa431e840de9cdab5a"
+  },
+  "nom": "Bureau d'études et de méthodes",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685354149/fzxth1ejqwug7frkwmpg.jpg",
+  "numOrdre": 4,
+  "textHome": "Acquérir les bases essentielles de la lecture et l’exécution d’un dessin de définition ou d’ensemble par la connaissance des différentes représentations et des principales règles et normes"
+},
+{
+  "_id": {
+    "$oid": "647478ec431e840de9cdab94"
+  },
+  "nom": "PAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685354725/hivdg6cmi9326d2fjj3r.jpg",
+  "numOrdre": 6,
+  "textHome": "Découvrez nos formations en PAO sous forme de parcours de formation complet ou de modules individuels."
+},
+{
+  "_id": {
+    "$oid": "648af230bc73356d6a12f8d3"
+  },
+  "nom": "Bureautique",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686827563/e74fiy5qwxrqanltxedc.jpg",
+  "textHome": "Savoir créer un document texte, des tables de calcul, des tables dynamiques, des présentation, gérer la mise en page et l'impression et faire du publipostage.",
+  "numOrdre": 5
+}]

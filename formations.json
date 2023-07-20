@@ -1,0 +1,3390 @@
+[{
+  "_id": {
+    "$oid": "64748c78431e840de9cdabfd"
+  },
+  "nom": "CATIA",
+  "text_1": [
+    {
+      "Text_1": "CATIA (Conception Assistée Tridimensionnelle Interactive Appliquée) est un logiciel de conception assistée par ordinateur (CAO) créé au départ par la société Dassault Aviation pour ses propres besoins sous le nom de CATI (acronyme de conception assistée tridimensionnelle interactive)."
+    },
+    {
+      "Text_1": "CATIA fonctionnait uniquement sur les plateformes Unix (AIX, HP-UX, IRIX et Solaris) en version 4. La version 5 de CATIA, disponible à partir de 1999, fonctionnait sous Solaris, AIX, HP-UX, IRIX et Windows, et proposait en outre une architecture de développement à partir d'interfaces VB et C++ permettant de personnaliser et de programmer ses propres modules à partir du noyau de base."
+    },
+    {
+      "Text_1": "A partir de la version CATIA V6, seul Windows est supporté côté client, bien que certains composants serveur soient supportés sous Unix."
+    },
+    {
+      "Text_1": "Les différents produits constituant CATIA V5 couvrent un très grand nombre de domaines, allant de la conception mécanique, à la conception de systèmes électriques, au design ou à la FAO."
+    },
+    {
+      "Text_1": "CATIA a la possibilité de s'interfacer avec un logiciel PLM. La connexion la plus aisée se fait avec les applications ENOVIA de Dassault Systèmes (VPM, 3DCOM, LCA, SmarTeam, 3DExpérience) mais les applications concurrentes proposent également une interface."
+    },
+    {
+      "Text_1": "CATIA est composé de plusieurs ateliers (également appelés modules) pour la conception mécanique, électrique, etc..."
+    },
+    {
+      "Text_1": "Citons par exemple:"
+    }
+  ],
+  "list": [
+    {
+      "TextList": "Ateliers de conception mécanique de base: conception de pièces, réalisations d'assemblages, mise en plan..."
+    },
+    {
+      "TextList": "Ateliers métiers avancés: atelier tôlerie, atelier soudures..."
+    },
+    {
+      "TextList": "Ateliers de conception électrique: passage des câbles, création des plans de câblage..."
+    },
+    {
+      "TextList": "Ateliers de calculs par éléments finis"
+    },
+    {
+      "TextList": "Ateliers d'usinage numérique"
+    },
+    {
+      "TextList": "Ateliers de gestion de la maquette numérique: revue de la maquette numérique, vérifications des interférences, calculs de cinématique..."
+    },
+    {
+      "TextList": "Ateliers d'ergonomie"
+    }
+  ],
+  "text_2": [
+    {
+      "Text_2": "CATIA comporte également des ateliers qui permettent de construire des catalogues de pièces standards ou de matériaux réutilisables. Sans oublier les modules de knowlegdeware qui permettent d'apporter de l'intelligence dans la conception des modèles et des vérifications automatiques."
+    },
+    {
+      "Text_2": "Engineering Concept vous proposons un large éventail de formations Catia à fortes valeurs ajoutées destinées et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_2": "Toutes nos formations Catia sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    },
+    {
+      "Text_2": "Nos formations Catia vous apportent un gain en productivité permettant d’améliorer votre organisation et vous concentrer sur le cœur de votre métier."
+    }
+  ],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1689761808/fmpffz7gtfcox5lv2xys.png",
+  "numOrdre": 1,
+  "typeModelFormation": "1",
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6474a0ad431e840de9cdac32"
+  },
+  "nom": "SOLIDWORKS",
+  "text_1": [
+    {
+      "Text_1": "SolidWorks est un modeleur 3D utilisant la conception paramétrique."
+    },
+    {
+      "Text_1": "Solidworks génère 3 types de fichiers relatifs à trois concepts de base : la pièce, l'assemblage et la mise en plan. Ces fichiers Solidworks sont en relation. Toute modification à quelque niveau que ce soit est répercutée vers tous les fichiers concernés."
+    },
+    {
+      "Text_1": "La base d'utilisateurs de Solidworks va des particuliers aux grandes entreprises et couvre un très large éventail de segments du marché de la fabrication."
+    },
+    {
+      "Text_1": "Un dossier complet contenant l'ensemble des fichiers Solidworks constitue une maquette numérique. De nombreux logiciels viennent compléter l'éditeur SolidWorks. Des utilitaires orientés métiers (tôlerie, bois, BTP...), mais aussi des applications de simulation mécanique ou d'image de synthèse travaillent à partir des éléments de la maquette virtuelle de Solidworks."
+    },
+    {
+      "Text_1": "SolidWorks est un programme qui offre des performances d'ingénierie et de conception améliorées qui vous aident à effectuer votre travail plus rapidement et plus facilement. Grace à Solidworks, vous pouvez gérer les structures de produit à l'avance, accéder aux informations partout et documenter les conceptions pour la fabrication et l'assemblage. Avec Solidworks, vous pouvez également créer des rapports d'inspection détaillés pour l'assurance qualité, calculer les coûts des produits lors de la conception et imprimer directement sur des imprimantes 3D."
+    },
+    {
+      "Text_1": "Solidworks est composé de plusieurs ateliers (également appelés modules) pour la conception mécanique, électrique, etc..."
+    },
+    {
+      "Text_1": "Citons par exemple:"
+    }
+  ],
+  "list": [
+    {
+      "TextList": "Ateliers de conception mécanique de base : conception de pièces, réalisations d'assemblages, mise en plan..."
+    },
+    {
+      "TextList": "Ateliers métiers avancés : atelier tôlerie, atelier constructions soudées ..."
+    },
+    {
+      "TextList": "Ateliers de conception électrique : passage des câbles, création des plans de câblage..."
+    },
+    {
+      "TextList": "Ateliers de calculs par éléments finis"
+    },
+    {
+      "TextList": "Ateliers d'usinage numérique"
+    }
+  ],
+  "text_2": [
+    {
+      "Text_2": "Solidworks comporte également des ateliers qui permettent de construire des catalogues de pièces standards ou de matériaux réutilisables."
+    },
+    {
+      "Text_2": "Engineering Concept vous proposons un large éventail de formations Solidworks à fortes valeurs ajoutées destinées et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_2": "Toutes nos formations Solidworks sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    },
+    {
+      "Text_2": "Nos formations Solidworks vous apportent un gain en productivité permettant d’améliorer votre organisation et vous concentrer sur le cœur de votre métier."
+    }
+  ],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685364738/elmed18zqhdub616roqh.png",
+  "numOrdre": 2,
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6474a1d6431e840de9cdac3b"
+  },
+  "nom": "Autodesk Inventor Pro",
+  "text_1": [
+    {
+      "Text_1": "Nous enseignons des processus de modélisation robustes et résilient. Avec ces formations Inventor axées sur le flux de travail, nous facilitons le processus d’apprentissage afin que votre équipe puisse apprendre autant que possible et aussi rapidement que possible. De petites classes comprenant souvent entre un et cinq participants, le processus d'apprentissage est dirigé par des instructeurs passionnés et compétents. En résolvant les problèmes grâce aux outils du logiciel, notre équipe rend l'apprentissage enrichissant. Nos formations Creo incluent des modules de fabrication, telles que des cours de moulage sous pression, de conception de pièces en plastique, de tôlerie et de forgeage. Nos formations Creo couvrent la conception de pièces, la conception de haut niveau, les assemblages de grande taille, les dessins de détail, la conception de faisceaux de câbles, la simulation FEA et la CNC."
+    },
+    {
+      "Text_1": "Inventor Pro est composé de plusieurs ateliers (également appelés modules) pour la conception mécanique, électrique, etc..."
+    },
+    {
+      "Text_1": "Citons par exemple:"
+    }
+  ],
+  "list": [
+    {
+      "TextList": "Ateliers de conception mécanique de base : conception de pièces, réalisations d'assemblages, mise en plan..."
+    },
+    {
+      "TextList": "Ateliers métiers avancés : atelier tôlerie, atelier constructions soudées ..."
+    },
+    {
+      "TextList": "Ateliers de conception électrique : passage des câbles, création des plans de câblage..."
+    },
+    {
+      "TextList": "Ateliers de calculs par éléments finis"
+    },
+    {
+      "TextList": "Ateliers d'usinage numérique"
+    }
+  ],
+  "text_2": [
+    {
+      "Text_2": "Inventor Pro comporte également des ateliers qui permettent de construire des catalogues de pièces standards ou de matériaux réutilisables."
+    },
+    {
+      "Text_2": "Engineering Concept vous proposons un large éventail de formations Inventor Pro à fortes valeurs ajoutées destinées et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_2": "Toutes nos formations Inventor Pro sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    },
+    {
+      "Text_2": "Nos formations Inventor Pro vous apportent un gain en productivité permettant d’améliorer votre organisation et vous concentrer sur le cœur de votre métier."
+    },
+    {
+      "Text_2": "Tous les cours de formation sur le moteur de conception Inventor Pro sont axés sur les compétences de base en matière de modélisation relatives à un processus de fabrication. Contactez-nous pour obtenir un devis pour votre équipe ou remplissez notre formulaire de contact et parlez-nous de votre besoin."
+    }
+  ],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1689776806/vbgcq57rbvfgqauwfrcg.png",
+  "numOrdre": 3,
+  "typeModelFormation": "1",
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6474a594431e840de9cdac44"
+  },
+  "nom": "PTC CREO",
+  "text_1": [
+    {
+      "Text_1": "Nous enseignons des processus de modélisation robustes et résilient. Avec ces formations Creo axées sur le flux de travail, nous facilitons le processus d’apprentissage afin que votre équipe puisse apprendre autant que possible et aussi rapidement que possible. De petites classes comprenant souvent entre un et cinq participants, le processus d'apprentissage est dirigé par des instructeurs passionnés et compétents. En résolvant les problèmes grâce aux outils du logiciel, notre équipe rend l'apprentissage enrichissant. Nos formations Creo incluent des modules de fabrication, telles que des cours de moulage sous pression, de conception de pièces en plastique, de tôlerie et de forgeage. Nos formations Creo couvrent la conception de pièces, la conception de haut niveau, les assemblages de grande taille, les dessins de détail, la conception de faisceaux de câbles, la simulation FEA et la CNC."
+    },
+    {
+      "Text_1": "PTC CREO est composé de plusieurs ateliers (également appelés modules) pour la conception mécanique, électrique, etc..."
+    },
+    {
+      "Text_1": "Citons par exemple:"
+    }
+  ],
+  "list": [
+    {
+      "TextList": "Ateliers de conception mécanique de base : conception de pièces, réalisations d'assemblages, mise en plan..."
+    },
+    {
+      "TextList": "Ateliers métiers avancés : atelier tôlerie, atelier constructions soudées ..."
+    },
+    {
+      "TextList": "Ateliers de conception électrique : passage des câbles, création des plans de câblage..."
+    },
+    {
+      "TextList": "Ateliers de calculs par éléments finis"
+    },
+    {
+      "TextList": "Ateliers d'usinage numérique"
+    }
+  ],
+  "text_2": [
+    {
+      "Text_2": "PTC CREO comporte également des ateliers qui permettent de construire des catalogues de pièces standards ou de matériaux réutilisables."
+    },
+    {
+      "Text_2": "Engineering Concept vous proposons un large éventail de formations PTC CREO à fortes valeurs ajoutées destinées et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_2": "Toutes nos formations PTC CREO sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    },
+    {
+      "Text_2": "Nos formations PTC CREO vous apportent un gain en productivité permettant d’améliorer votre organisation et vous concentrer sur le cœur de votre métier."
+    },
+    {
+      "Text_2": "Tous les cours de formation sur le moteur de conception Creo sont axés sur les compétences de base en matière de modélisation relatives à un processus de fabrication. Contactez-nous pour obtenir un devis pour votre équipe ou remplissez notre formulaire de contact et parlez-nous de votre besoin."
+    }
+  ],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1689776872/emm1cgbqx8dss7x2wsut.png",
+  "numOrdre": 4,
+  "typeModelFormation": "1",
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6474b7d1431e840de9cdac73"
+  },
+  "nom": "Solid Edge",
+  "text_1": [
+    {
+      "Text_1": "Solid Edge est un logiciel de CAO de dessin, de modélisation solide et de simulation pour les conceptions mécaniques et électriques et le développement de produits. Il appartient au logiciel Siemens PLM. Grâce à l'utilisation de la technologie synchrone, Solid Edge fusionne la simplicité et la rapidité de la modélisation directe avec le contrôle et la flexibilité de la technologie paramétrique. Le progiciel dispose d'un portefeuille complet d'outils nécessaires pour tous les aspects du processus de développement de produits. Ce portefeuille comprend la conception mécanique et électrique, la simulation, la gestion des données, les publications techniques, les solutions de fabrication et la collaboration basée sur le cloud. Compte tenu de ces caractéristiques, nous pouvons convenir que Solid Edge est une solution logicielle CAO puissante et complète. La question est, est-ce que cela vous convient?"
+    },
+    {
+      "Text_1": "Solid Edge avec la technologie synchrone est un système de conception assistée par ordinateur (CAO) pour l'assemblage mécanique, la modélisation de pièces, la production de dessins et la simulation. Solid Edge augmente la productivité essentielle des utilisateurs de CAO en capturant les intentions de conception de modélisation solides des ingénieurs grâce à la logique d'inférence et aux concepts de gestion des décisions. La technologie synchrone permet de modifier la conception de n'importe quel modèle, sans avoir à savoir comment il a été construit.  L'apprentissage de Solid Edge ST est très utile pour les ingénieurs en mécanique ou toute personne travaillant dans le domaine MCAD (Mechanical Computer Aided Design). Cette formation est une feuille de route pour tous ceux qui souhaitent commencer à apprendre Solid Edge ST."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "CAO",
+  "photo": "https://res.cloudinary.com/piyushproj/image/upload/v1685616059/i4i1p2w6tnwpcujjgpzy.png",
+  "numOrdre": 5,
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "647876e7d1858fb45543bb66"
+  },
+  "nom": "NX (Siemens PLM)",
+  "text_1": [
+    {
+      "Text_1": "NX est une solution de développement de produits puissante, flexible et innovante offre les fonctionnalités et les performances nécessaires pour vous aider à mettre vos produits sur le marché plus vite que jamais."
+    },
+    {
+      "Text_1": "NX vous permet de réussir « du premier coup » la mise sur le marché de vos produits, en utilisant plus de modèles virtuels de ces derniers et moins de prototypes physiques plus coûteux. Il en résulte des gains commerciaux, une réduction des coûts de développement et une amélioration de la qualité des produits."
+    },
+    {
+      "Text_1": "La base d'utilisateurs de NX va des particuliers aux grandes entreprises et couvre un très large éventail de segments du marché de la fabrication."
+    },
+    {
+      "Text_1": "Un dossier complet contenant l'ensemble des fichiers NX constitue une maquette numérique. De nombreux logiciels viennent compléter l'éditeur NX. Des utilitaires orientés métiers (tôlerie, bois, BTP...), mais aussi des applications de simulation mécanique ou d'image de synthèse travaillent à partir des éléments de la maquette virtuelle de NX."
+    },
+    {
+      "Text_1": "NX est un programme qui offre des performances d'ingénierie et de conception améliorées qui vous aident à effectuer votre travail plus rapidement et plus facilement. Grace à NX, vous pouvez gérer les structures de produit à l'avance, accéder aux informations partout et documenter les conceptions pour la fabrication et l'assemblage. Avec NX, vous pouvez également créer des rapports d'inspection détaillés pour l'assurance qualité, calculer les coûts des produits lors de la conception et imprimer directement sur des imprimantes 3D."
+    },
+    {
+      "Text_1": "NX est composé de plusieurs ateliers (également appelés modules) pour la conception mécanique, électrique, etc..."
+    },
+    {
+      "Text_1": "Citons par exemple:"
+    }
+  ],
+  "list": [
+    {
+      "TextList": "Ateliers de conception mécanique de base : conception de pièces, réalisations d'assemblages, mise en plan..."
+    },
+    {
+      "TextList": "Ateliers métiers avancés : atelier tôlerie, atelier constructions soudées ..."
+    },
+    {
+      "TextList": "Ateliers de conception électrique : passage des câbles, création des plans de câblage..."
+    },
+    {
+      "TextList": "Ateliers de modification de pièce sans historique"
+    },
+    {
+      "TextList": "Ateliers d'usinage numérique"
+    }
+  ],
+  "text_2": [
+    {
+      "Text_2": "NX comporte également des ateliers qui permettent de construire des catalogues de pièces standards ou de matériaux réutilisables."
+    },
+    {
+      "Text_2": "Engineering Concept vous proposons un large éventail de formations NX à fortes valeurs ajoutées destinées et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_2": "Toutes nos formations NX sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    },
+    {
+      "Text_2": "Nos formations NX vous apportent un gain en productivité permettant d’améliorer votre organisation et vous concentrer sur le cœur de votre métier."
+    }
+  ],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685616268/skfpezzj3yek5bxv4bp6.png",
+  "numOrdre": 6,
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6478ae25d1858fb45543bc6d"
+  },
+  "nom": "OnShape",
+  "text_1": [
+    {
+      "Text_1": "Onshape est un logiciel CAO entièrement basé sur le cloud. Cela signifie que vous n’avez pas besoin d’installation préalable pour pouvoir l'utiliser."
+    },
+    {
+      "Text_1": "Parce que Onshape est entièrement basé sur le cloud, il est accessible à partir de tout appareil utilisant un navigateur comme Firefox ou Chrome. Cela signifie que vous pouvez utiliser Onshape avec n'importe quelle connexion Internet sur votre tablette, smartphone, ordinateur portable ou poste de travail. Onshape propose même des applications pour Android et appareils iOS."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1689777431/qzlmk052nvota5a7xq05.png",
+  "numOrdre": 7,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6478b3cdd1858fb45543bc84"
+  },
+  "nom": "FreeCAD",
+  "text_1": [
+    {
+      "Text_1": "FreeCAD est un logiciel libre et open source, de CAO 3D paramétrique. FreeCAD permet d'utiliser la modélisation volumique, la modélisation fonctionnelle et la modélisation surfacique. Ces trois types de modélisation sont entièrement paramétrables. D'abord destiné aux métiers du génie mécanique, avec la CMAO ; FreeCAD s'est ensuite étendu à d'autres branches de l'ingénierie, comme l'architecture, grâce à son module BIM. FreeCAD supporte la MEF8 et peut être utilisé pour l'IAO, la FAO et la GCVP. FreeCAD possède une architecture modulaire et a vocation à devenir, un logiciel de CFAO plus généraliste. Grâce à sa nature libre et open-source, les utilisateurs peuvent étendre les possibilités de freeCAD en ajoutant divers plug-ins gratuits, ou en se servant du langage de programmation Python."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685632002/z4pfeen6nig51yjngjzx.png",
+  "numOrdre": 8,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6478b495d1858fb45543bc9f"
+  },
+  "nom": "Fusion 360",
+  "text_1": [
+    {
+      "Text_1": "La formation Autodesk Fusion 360 vous permet de tirer le meilleur profit de cet outil unique de conception 3D, de simulation et de programmation FAO. Fusion regroupe l'ensemble de votre processus de conception et de développement de produits dans une plate-forme cloud unique qui fonctionne sur votre Mac et votre PC."
+    },
+    {
+      "Text_1": "Vous pouvez utiliser Autodesk Fusion 360 pour modéliser votre conception en 3D, avant d'utiliser des outils de simulation pour analyser votre conception en termes de résistance ou de légèreté. Vous pouvez ensuite choisir le mode de sortie de vos créations. Vous pouvez utiliser Fusion 360 pour créer des fichiers pour l'impression 3D, programmer votre machine FAO ou créer des dessins 2D traditionnels."
+    },
+    {
+      "Text_1": "Fusion 360 est livré avec des outils intégrés de gestion des données et de collaboration, ce qui en fait la plate-forme complète d'innovation de produits et l'inscription à un cours de CAO Fusion 360 est un excellent moyen de commencer à développer vos compétences en conception 3D dans la conception et la fabrication de produits."
+    },
+    {
+      "Text_1": "Compte tenu de la puissance du logiciel, il est relativement facile à prendre en main, mais vous pouvez raccourcir la voie pour devenir un utilisateur expérimenté de Fusion 3D avec l'aide de nos instructeurs enthousiastes. Une fois que vous serez familiarisé avec tous les éléments du logiciel, votre entreprise pourra bénéficier du flux de travail connecté dans Autodesk Fusion 360, vous emmenant de la conception à la simulation en passant par la FAO et l'impression 3D, le tout à partir du même package CAO."
+    },
+    {
+      "Text_1": "Engineering Concept propose un vaste portefeuille de formations et peut dispenser des formations dans nos centres de formation Autodesk dans tout le pays, dans vos propres locaux ou même en ligne avec notre plateforme de formation en ligne flexible ou certifiée Autodesk."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685632282/bkq5mc0v3vxjcgwepfal.png",
+  "numOrdre": 9,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6478bc16d1858fb45543bce6"
+  },
+  "nom": "BricsCAD",
+  "text_1": [
+    {
+      "Text_1": " enseignons des processus de modélisation robustes et résilient. Avec ces formations BricsCAD axées sur le flux de travail, nous facilitons le processus d’apprentissage afin que votre équipe puisse apprendre autant que possible et aussi rapidement que possible. De petites classes comprenant souvent entre un et cinq participants, le processus d'apprentissage est dirigé par des instructeurs passionnés et compétents. En résolvant les problèmes grâce aux outils du logiciel, notre équipe rend l'apprentissage enrichissant. Nos formations BricsCAD incluent des modules tel que le dessin d'architecture, de conception de pièces mécanique, pièce de tôlerie et de forgeage. Nos formations BricsCAD couvrent la conception de pièces, la conception de haut niveau, les assemblages de grande taille, les dessins de détail."
+    },
+    {
+      "Text_1": "BricsCAD est composé de plusieurs ateliers (également appelés modules) pour le dessin d'architecture, la conception mécanique, tôlerie, etc..."
+    },
+    {
+      "Text_1": "Citons par exemple:"
+    }
+  ],
+  "list": [
+    {
+      "TextList": "Atelier de dessin d'architecture"
+    },
+    {
+      "TextList": "Atelier de design d'intérieur et d'extérieur"
+    },
+    {
+      "TextList": "Ateliers de conception mécanique de base : conception de pièces, réalisations d'assemblages, mise en plan..."
+    },
+    {
+      "TextList": "Ateliers métiers avancés : atelier tôlerie ..."
+    }
+  ],
+  "text_2": [
+    {
+      "Text_2": "BricsCAD comporte également des ateliers qui permettent de construire des catalogues de pièces standards ou de matériaux réutilisables."
+    },
+    {
+      "Text_2": "Engineering Concept vous proposons un large éventail de formations BricsCAD à fortes valeurs ajoutées destinées et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_2": "Toutes nos formations BricsCAD sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    },
+    {
+      "Text_2": "Nos formations BricsCAD vous apportent un gain en productivité permettant d’améliorer votre organisation et vous concentrer sur le cœur de votre métier."
+    },
+    {
+      "Text_2": "Tous les cours de formation sur le moteur de conception BricsCAD sont axés sur les compétences de base en matière de modélisation relatives à un processus de fabrication. Contactez-nous pour obtenir un devis pour votre équipe ou remplissez notre formulaire de contact et parlez-nous de votre besoin."
+    }
+  ],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1689777716/kynwbxffndndm8koasja.png",
+  "numOrdre": 10,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6479b43f5941c7756660cd48"
+  },
+  "nom": "T-Flex CAD",
+  "text_1": [
+    {
+      "Text_1": "T-Flex CAD est un modeleur 3D utilisant la conception paramétrique. T-Flex CAD génère 3 types de fichiers relatifs à trois concepts de base : la pièce, l'assemblage et la mise en plan. Ces fichiers T-Flex CAD sont en relation. Toute modification à quelque niveau que ce soit est répercutée vers tous les fichiers concernés."
+    },
+    {
+      "Text_1": "La base d'utilisateurs de T-Flex CAD va des particuliers aux grandes entreprises et couvre un très large éventail de segments du marché de la fabrication."
+    },
+    {
+      "Text_1": "Un dossier complet contenant l'ensemble des fichiers T-Flex CAD constitue une maquette numérique. De nombreux logiciels viennent compléter l'éditeur T-Flex CAD. Des utilitaires orientés métiers (tôlerie, bois, BTP...), mais aussi des applications de simulation mécanique ou d'image de synthèse travaillent à partir des éléments de la maquette virtuelle de T-Flex CAD."
+    },
+    {
+      "Text_1": "T-Flex CAD est un programme qui offre des performances d'ingénierie et de conception améliorées qui vous aident à effectuer votre travail plus rapidement et plus facilement. Grâce à T-Flex CAD, vous pouvez gérer les structures de produit à l'avance, accéder aux informations partout et documenter les conceptions pour la fabrication et l'assemblage. Avec T-Flex CAD, vous pouvez également créer des rapports d'inspection détaillés pour l'assurance qualité, calculer les coûts des produits lors de la conception et imprimer directement sur des imprimantes 3D."
+    },
+    {
+      "Text_1": "T-Flex CAD est composé de plusieurs ateliers (également appelés modules) pour la conception mécanique, électrique, etc..."
+    },
+    {
+      "Text_1": "Citons par exemple:"
+    }
+  ],
+  "list": [
+    {
+      "TextList": "Ateliers de conception mécanique de base : conception de pièces, réalisations d'assemblages, mise en plan..."
+    },
+    {
+      "TextList": "Ateliers métiers avancés : atelier tôlerie, atelier constructions soudées ..."
+    },
+    {
+      "TextList": "Ateliers de conception électrique : passage des câbles, création des plans de câblage..."
+    },
+    {
+      "TextList": "Ateliers de calculs par éléments finis"
+    },
+    {
+      "TextList": "Ateliers d'usinage numérique"
+    }
+  ],
+  "text_2": [
+    {
+      "Text_2": "T-Flex CAD comporte également des ateliers qui permettent de construire des catalogues de pièces standards ou de matériaux réutilisables."
+    },
+    {
+      "Text_2": "Engineering Concept vous proposons un large éventail de formations T-Flex CAD à fortes valeurs ajoutées destinées et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_2": "Toutes nos formations T-Flex CAD sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    },
+    {
+      "Text_2": "Nos formations T-Flex CAD vous apportent un gain en productivité permettant d’améliorer votre organisation et vous concentrer sur le cœur de votre métier."
+    }
+  ],
+  "categorie": "CAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685697476/dnhd70dwu9ppdry4ztdk.png",
+  "numOrdre": 11,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6479beda5941c7756660cd76"
+  },
+  "nom": "Autocad",
+  "text_1": [
+    {
+      "Text_1": "AutoCAD est un logiciel de conception assistée par ordinateur (CAO) sur lequel les architectes, les ingénieurs et les professionnels de la construction s’appuient pour créer des dessins précis en 2D et 3D (comprend des outils spécialisés : AutoCAD Architecture, AutoCAD Electrical, AutoCAD Map 3D, AutoCAD Mechanical, AutoCAD MEP, AutoCAD Plant 3D, AutoCAD Raster Design."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "DAO et Architecture",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685700278/jwqzgohl55asuxrc1rdn.png",
+  "numOrdre": 1,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6479ef899476c241cd0ebc3c"
+  },
+  "nom": "DraftSight",
+  "text_1": [
+    {
+      "Text_1": "DraftSight est un logiciel de CAO 2D destiné aux ingénieurs, architectes, designers, dessinateurs, étudiants et éducateurs."
+    },
+    {
+      "Text_1": "DraftSight permet aux utilisateurs de créer et d'accéder à des fichiers DWG / DXF, quel que soit le logiciel de CAO qui a été initialement utilisé pour les créer."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "DAO et Architecture",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685712773/ujv3k5m5jcfcos5spetn.jpg",
+  "numOrdre": 3,
+  "duree": "4",
+  "prix": "1490",
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6479f0929476c241cd0ebc48"
+  },
+  "nom": "Turbocad",
+  "text_1": [
+    {
+      "Text_1": "TurboCAD est  un logiciel de modélisation 3D et de dessin technique 2D pour la mécanique, le bâtiment ou le design. "
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "DAO et Architecture",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685713495/qbtvfxdoqx3vnkx8daes.png",
+  "numOrdre": 4,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6479f5f19476c241cd0ebc59"
+  },
+  "nom": "Vectorworks",
+  "text_1": [
+    {
+      "Text_1": "Vectorworks est un logiciel de CAO professionnel utilisé pour le dessin, la conception, la présentation et la modélisation de projets en 2D et en 3D. Ce logiciel est développé par Vectorworks Inc."
+    },
+    {
+      "Text_1": "Vectorworks est un excellent programme de rédaction. il vous permet de faire tout ce que vous voulez, avec un grand contrôle sur l’apparence des dessins, et de nombreuses façons d’organiser un ensemble de dessins complet. Il a la capacité de faire des dessins 2D beaux, robustes, lisibles et intelligents."
+    },
+    {
+      "Text_1": "Vectorworks Architect est un logiciel flexible qui peut prendre en charge l’ensemble d’un projet, de la conception au développement de la conception, en passant par les modèles BIM entièrement coordonnés et les documents de construction. Sa polyvalence aide à tout rassembler et augmente l’efficacité de l’exécution et de la documentation des projets."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "DAO et Architecture",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685714408/clytf2zs7hjkw3cligkt.png",
+  "numOrdre": 5,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6479fcae9476c241cd0ebc92"
+  },
+  "nom": "Revit",
+  "text_1": [
+    {
+      "Text_1": "Revit est un logiciel de conception de bâtiment édité par la société américaine Autodesk qui permet de créer un modèle en 3D d'un bâtiment pour créer divers documents nécessaires à sa construction (plan, perspective, ...)."
+    },
+    {
+      "Text_1": "Revit est un logiciel de CAO et BIM multi-métiers destiné aux professionnels du BTP (ingénieurs, architectes, dessinateurs-projeteurs, entrepreneurs,...).  Avec sa plate-forme Revit, Autodesk est un acteur important sur le marché du BIM"
+    },
+    {
+      "Text_1": "Revit est destiné aux ingénieurs et sert à modéliser des bâtiments en trois dimensions. Autrement dit, un seul fichier Revit contient toutes les données. Ainsi, lorsqu'un élément change de place ou de fonction, il est mis à jour dans toutes les vues du modèle ainsi que dans les nomenclatures et sur le jeu de feuilles des plans. Plusieurs disciplines se rencontrent dans cette même logique, comme la structure, les réseaux, les fluides ..."
+    },
+    {
+      "Text_1": "   Ainsi, Revit travaille en plan, en coupe, en façade, en perspective, en vue orthogonale, en coupe 3D et en nomenclatures."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "DAO et Architecture",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685716128/idxvugbboweygsdjdd6m.png",
+  "numOrdre": 6,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "6479ff1e9476c241cd0ebc9b"
+  },
+  "nom": "LibreCAD",
+  "text_1": [
+    {
+      "Text_1": "LibreCAD est un logiciel libre de dessin assisté par ordinateur. Il permet le dessin en deux dimensions comme des plans techniques, des documentations de construction, ou encore des modes d'emploi. Des informations complémentaires comme les cotes, les diamètres, les angles et les mesures peuvent être ajoutées aux schémas."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "DAO et Architecture",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685716760/m64d1a2pwzyroxzctcez.png",
+  "numOrdre": 7,
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "647a07769476c241cd0ebcac"
+  },
+  "nom": "Rhinoceros 3D",
+  "text_1": [
+    {
+      "Text_1": "Acquérir les bases essentielles du logiciel RHINOCEROS 3D pour réaliser des modèles 3D, des scènes avec rendu ou du design d'intérieur."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "Design",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685718884/fuuhxwdiuaveflnptxfb.png",
+  "numOrdre": 1,
+  "duree": "5",
+  "prix": "1890",
+  "typeModelFormation": "2",
+  "programme": [
+    {
+      "titre": "Introduction",
+      "list": [
+        {
+          "name": "Découvrir la configuration"
+        },
+        {
+          "name": "Créer et enregistrer un fichier"
+        },
+        {
+          "name": "Créer un modèle"
+        },
+        {
+          "name": "Importer/Exporter"
+        },
+        {
+          "name": "Propriétés"
+        },
+        {
+          "name": "Gestionnaire de sessions"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de création de courbes",
+      "list": [
+        {
+          "name": "Ligne, polyligne, rectangle, forme libre ..."
+        },
+        {
+          "name": "Cercle, arc, ellipse, hélice, spirale ..."
+        },
+        {
+          "name": "Congé : sur sommets, entre courbes"
+        },
+        {
+          "name": "Chanfrein"
+        },
+        {
+          "name": "Connecter des courbes"
+        }
+      ]
+    },
+    {
+      "titre": "Modification des courbes",
+      "list": [
+        {
+          "name": "Décaler"
+        },
+        {
+          "name": "Raccorder"
+        },
+        {
+          "name": "Prolonger une courbe"
+        },
+        {
+          "name": "Convertir : en ligne, en arc"
+        },
+        {
+          "name": "Fermer"
+        }
+      ]
+    },
+    {
+      "titre": "Courbes à partir d'objets",
+      "list": [
+        {
+          "name": "Projeter"
+        },
+        {
+          "name": "Extraire"
+        },
+        {
+          "name": "Intersection"
+        },
+        {
+          "name": "ISOline"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de création de surfaces",
+      "list": [
+        {
+          "name": "Plan"
+        },
+        {
+          "name": "Par sections"
+        },
+        {
+          "name": "Balayage : un rail, deux rails"
+        },
+        {
+          "name": "Révolution, révolution sur un rail"
+        },
+        {
+          "name": "Par extrusion"
+        },
+        {
+          "name": "Draper"
+        }
+      ]
+    },
+    {
+      "titre": "Modification des surfaces",
+      "list": [
+        {
+          "name": "Congé"
+        },
+        {
+          "name": "Chanfrein"
+        },
+        {
+          "name": "Connecter des surfaces"
+        },
+        {
+          "name": "Prolonger"
+        },
+        {
+          "name": "Décaler"
+        },
+        {
+          "name": "Raccorder"
+        },
+        {
+          "name": "Dérouler"
+        },
+        {
+          "name": "Écraser"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de création de solides",
+      "list": [
+        {
+          "name": "Prédéfinis : boite, sphère, cylindre, cône ..."
+        },
+        {
+          "name": "Par extrusion de courbe"
+        },
+        {
+          "name": "Par extrusion de surface"
+        },
+        {
+          "name": "Nervure"
+        },
+        {
+          "name": "Texte"
+        }
+      ]
+    },
+    {
+      "titre": "Les opérations booléennes",
+      "list": [
+        {
+          "name": "Union"
+        },
+        {
+          "name": "Différence"
+        },
+        {
+          "name": "Intersection"
+        },
+        {
+          "name": "Division booléenne"
+        },
+        {
+          "name": "Créer un solide"
+        }
+      ]
+    },
+    {
+      "titre": "Les opérations sur les solides",
+      "list": [
+        {
+          "name": "Congé, raccordement, chanfrein"
+        },
+        {
+          "name": "Extraire une surface"
+        },
+        {
+          "name": "Boucher des trous plans"
+        }
+      ]
+    },
+    {
+      "titre": "La modification des solides",
+      "list": [
+        {
+          "name": "Bords : déplacer, rotation, échelle"
+        },
+        {
+          "name": "Faces : déplacer, rotation, cisailler, plier, fusionner, diviser"
+        },
+        {
+          "name": "Trous : par révolution, rond, placer, copier, déplacer, matrice"
+        },
+        {
+          "name": " Découper au fil"
+        }
+      ]
+    },
+    {
+      "titre": "Le maillage",
+      "list": [
+        {
+          "name": "A partir d'un objet Nurbs"
+        },
+        {
+          "name": "Primitives de maillages : face, plan, boite ..."
+        },
+        {
+          "name": "Décaler un maillage"
+        },
+        {
+          "name": "Appliquer sur une surface"
+        },
+        {
+          "name": "A partir : d'une polyligne, de points ..."
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de maillage",
+      "list": [
+        {
+          "name": "Réparation : remplir, unifier, diviser, reconstruire"
+        },
+        {
+          "name": "Modification : souder/dessouder, limiter, diviser"
+        },
+        {
+          "name": "Opérations booléennes : union, différence, intersection, diviser"
+        },
+        {
+          "name": "Propriétés du maillage du rendu"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de transformation",
+      "list": [
+        {
+          "name": "Modifier"
+        },
+        {
+          "name": "Déplacer, Copier, Rotation, rotation 3D"
+        },
+        {
+          "name": "Échelle : 3D, 2D, 1D, non uniforme"
+        },
+        {
+          "name": "Cisailler"
+        },
+        {
+          "name": "Symétrie"
+        },
+        {
+          "name": "Raccord symétrique"
+        },
+        {
+          "name": "Aligner"
+        },
+        {
+          "name": "Orienter"
+        },
+        {
+          "name": "Matrice"
+        },
+        {
+          "name": "Définir des points"
+        },
+        {
+          "name": "Projeter sur le plan C"
+        },
+        {
+          "name": "Déformation"
+        },
+        {
+          "name": "Tordre"
+        },
+        {
+          "name": "Courber"
+        },
+        {
+          "name": "Effiler"
+        },
+        {
+          "name": "Glisser : le long d'une courbe, le long d'une surface"
+        },
+        {
+          "name": "Lisser"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils d’analyse",
+      "list": [
+        {
+          "name": "Point"
+        },
+        {
+          "name": "Courbe : activer/désactiver le diagramme de courbure, continuité géométrique, écart"
+        },
+        {
+          "name": "Surface : analyser la courbure, l'angle de dépouille, rayures"
+        },
+        {
+          "name": "Propriétés mécaniques : Aire, volume"
+        },
+        {
+          "name": "Bords : Montrer diviser, fusionner, joindre, reconstruire"
+        },
+        {
+          "name": "Diagnostique : liste, vérifier, contrôler"
+        },
+        {
+          "name": "Cercle de courbure"
+        },
+        {
+          "name": "Direction"
+        }
+      ]
+    },
+    {
+      "titre": "Créer des rendus réalistes",
+      "list": [
+        {
+          "name": "Ombrage"
+        },
+        {
+          "name": "Aperçu"
+        },
+        {
+          "name": "Créer : projecteur, lumière ponctuelle, directionnelle, rectangulaire, linéaire"
+        },
+        {
+          "name": "Modifier une lumière"
+        },
+        {
+          "name": "Définir : un projecteur en fonction de la vue, une vue en fonction du projecteur"
+        },
+        {
+          "name": "Module de rendu"
+        }
+      ]
+    },
+    {
+      "titre": "Créer un dessin 2D",
+      "list": [
+        {
+          "name": "Cotation : linéaire, rayon/diamètre, angle"
+        },
+        {
+          "name": "Ligne de repère"
+        },
+        {
+          "name": "Bloc de texte"
+        },
+        {
+          "name": "Point d'annotation"
+        },
+        {
+          "name": "Hachures "
+        },
+        {
+          "name": "Propriétés des côtes"
+        }
+      ]
+    },
+    {
+      "titre": "Sélectionner des objets",
+      "list": [
+        {
+          "name": "Tous/Aucun"
+        },
+        {
+          "name": "Inverser la sélection"
+        },
+        {
+          "name": "Filtre de sélection : courbe, surface, bloc, calque"
+        }
+      ]
+    },
+    {
+      "titre": "Les points de contrôle",
+      "list": [
+        {
+          "name": "Activer/Désactiver"
+        },
+        {
+          "name": "Cacher/Montrer"
+        },
+        {
+          "name": "Insérer/Supprimer"
+        },
+        {
+          "name": "Sélection"
+        },
+        {
+          "name": "Modifier le poids"
+        },
+        {
+          "name": "Insérer/Enlever un nœud"
+        },
+        {
+          "name": "Montrer un point d'édition"
+        },
+        {
+          "name": "Insérer un point d'édition"
+        }
+      ]
+    },
+    {
+      "titre": "Gestion de la visibilité",
+      "list": [
+        {
+          "name": "Cacher/Montrer"
+        },
+        {
+          "name": "Échanger les objets visibles et cachés"
+        },
+        {
+          "name": "Verrouiller/Déverrouiller"
+        },
+        {
+          "name": "Échanger les objets verrouillés et déverrouillés"
+        }
+      ]
+    },
+    {
+      "titre": "Les opérations d’insertion",
+      "list": [
+        {
+          "name": "Groupes : grouper, dissocier, nommer un groupe"
+        },
+        {
+          "name": "Blocs : créer, insérer, gestionnaire de bloc"
+        }
+      ]
+    },
+    {
+      "titre": "Les calques et couches",
+      "list": [
+        {
+          "name": "Définition : assigner, modifier, changer, copier, placer"
+        },
+        {
+          "name": "Activer : un calque, tous les calques, désactiver"
+        },
+        {
+          "name": "Gestion : définir le calque actuel, dupliquer un calque"
+        },
+        {
+          "name": "Gestionnaire de définitions de calques"
+        }
+      ]
+    },
+    {
+      "titre": "Les opérations de modification",
+      "list": [
+        {
+          "name": "Joindre"
+        },
+        {
+          "name": "Décomposer"
+        },
+        {
+          "name": "Limiter"
+        },
+        {
+          "name": "Diviser"
+        },
+        {
+          "name": "Reconstruire"
+        },
+        {
+          "name": "Propriétés de l'objet"
+        }
+      ]
+    },
+    {
+      "titre": "La gestion des vues",
+      "list": [
+        {
+          "name": "Zoom, rotation panoramique"
+        },
+        {
+          "name": "Définir : la vue, le plan de travail, la caméra"
+        },
+        {
+          "name": "Fenêtres : disposition, mise en page, fermer"
+        },
+        {
+          "name": "Affichage : filaire, ombré, rendu ..."
+        },
+        {
+          "name": "Arrière-plan"
+        },
+        {
+          "name": "Grille"
+        }
+      ]
+    },
+    {
+      "titre": "Outils divers",
+      "list": [
+        {
+          "name": "Accrochage aux objets"
+        },
+        {
+          "name": "Configuration des barres d'outils"
+        },
+        {
+          "name": "Options : importer, exporter"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "647a09139476c241cd0ebcbe"
+  },
+  "nom": "Sketchup",
+  "text_1": [
+    {
+      "Text_1": "Acquérir les bases essentielles du logiciel SketcUp pour réaliser des modèles pour impression 3D, des scènes avec rendu ou du design d'intérieur."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "Design",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685719311/gfpjtuyqwaok5duykylm.png",
+  "numOrdre": 2,
+  "duree": "5",
+  "prix": "1890",
+  "programme": [
+    {
+      "titre": "Introduction",
+      "list": [
+        {
+          "name": "Créer et enregistrer un document"
+        },
+        {
+          "name": "Enregistrer comme modèle type"
+        },
+        {
+          "name": "Géoposition : ajouter un emplacement, supprimer un emplacement, afficher le relief"
+        },
+        {
+          "name": "Importer/Exporter"
+        },
+        {
+          "name": "Export STL (Impression 3D)"
+        }
+      ]
+    },
+    {
+      "titre": "Édition",
+      "list": [
+        {
+          "name": "supprimer le guides"
+        },
+        {
+          "name": "Masquer/Révéler"
+        },
+        {
+          "name": "Verrouiller/Déverrouiller"
+        },
+        {
+          "name": "Créer un composant"
+        },
+        {
+          "name": "Créer un groupe"
+        },
+        {
+          "name": "Intersection des faces"
+        }
+      ]
+    },
+    {
+      "titre": "Dessiner",
+      "list": [
+        {
+          "name": "Lignes"
+        },
+        {
+          "name": "Main levée"
+        },
+        {
+          "name": "Arcs : par 2 points, par 3 points, portion d'un cercle"
+        },
+        {
+          "name": "Formes : rectangle, rectangle orienté, cercle, polygone"
+        }
+      ]
+    },
+    {
+      "titre": "Outils",
+      "list": [
+        {
+          "name": "Sélectionner"
+        },
+        {
+          "name": "Effacer"
+        },
+        {
+          "name": "Colorier"
+        },
+        {
+          "name": "Déplacer"
+        },
+        {
+          "name": "Pivoter"
+        },
+        {
+          "name": "Mettre à l'échelle"
+        },
+        {
+          "name": "Pousser/Tirer"
+        },
+        {
+          "name": "Suivez-moi"
+        },
+        {
+          "name": "Décalage"
+        },
+        {
+          "name": "Enveloppe externe"
+        },
+        {
+          "name": "Solides"
+        },
+        {
+          "name": "Mesure : mètre, rapporteur, axes"
+        },
+        {
+          "name": "Annotation : cotations, texte, texte 3D"
+        },
+        {
+          "name": "Plan de section"
+        },
+        {
+          "name": "Outils de caméra avancés"
+        },
+        {
+          "name": "Interagir"
+        },
+        {
+          "name": "Grille"
+        },
+        {
+          "name": "Bac à sable"
+        }
+      ]
+    },
+    {
+      "titre": "Affichage",
+      "list": [
+        {
+          "name": "Barre d'outils"
+        },
+        {
+          "name": "Onglets de scène"
+        },
+        {
+          "name": "Géométrie cachée"
+        },
+        {
+          "name": "Plans de scène"
+        },
+        {
+          "name": "Coupes"
+        },
+        {
+          "name": "Axes"
+        },
+        {
+          "name": "Guides"
+        },
+        {
+          "name": "Ombres"
+        },
+        {
+          "name": "Brouillard"
+        },
+        {
+          "name": "Style d'arêtes"
+        },
+        {
+          "name": "Style de face"
+        },
+        {
+          "name": "Modification de composant"
+        },
+        {
+          "name": "Animation : ajouter une scène, actualiser la scène, supprimer une scène"
+        }
+      ]
+    },
+    {
+      "titre": "Fenêtre",
+      "list": [
+        {
+          "name": "Palette : par défaut, personnalisée"
+        },
+        {
+          "name": "Gérer les palettes"
+        },
+        {
+          "name": "Nouveau plateau"
+        },
+        {
+          "name": "Infos sur le modèle"
+        },
+        {
+          "name": "Préférences"
+        }
+      ]
+    },
+    {
+      "titre": "Extensions",
+      "list": [
+        {
+          "name": "Importer/Créer"
+        },
+        {
+          "name": "Modifier/Supprimer"
+        }
+      ]
+    }
+  ],
+  "typeModelFormation": "2"
+},
+{
+  "_id": {
+    "$oid": "647a0a149476c241cd0ebcc7"
+  },
+  "nom": "Keyshot",
+  "text_1": [
+    {
+      "Text_1": "Acquérir les bases essentielles du logiciel Keyshot pour réaliser des rendus, des scènes ou du design d'intérieur."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "Design",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685719525/tvg0nrlhl0uywmslwu7f.jpg",
+  "numOrdre": 3,
+  "programme": [],
+  "typeModelFormation": "1",
+  "duree": "2",
+  "prix": "1190"
+},
+{
+  "_id": {
+    "$oid": "647a0c3e9476c241cd0ebcd3"
+  },
+  "nom": "V-Ray",
+  "text_1": [
+    {
+      "Text_1": "Acquérir les bases essentielles du logiciel V-Ray pour réaliser des rendu, des scènes ou du design d'intérieur."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685720122/xhi7gah98detzxhiexjn.png",
+  "categorie": "Design",
+  "numOrdre": 4,
+  "duree": "2",
+  "prix": "790",
+  "programme": [
+    {
+      "titre": "Introduction",
+      "list": [
+        {
+          "name": "Options de base"
+        },
+        {
+          "name": "Réflexion/Réfraction"
+        },
+        {
+          "name": "illumination indirecte"
+        },
+        {
+          "name": "rendu"
+        },
+        {
+          "name": "correction gamma"
+        }
+      ]
+    },
+    {
+      "titre": "L'éditeur de matériaux",
+      "list": [
+        {
+          "name": "Couleur"
+        },
+        {
+          "name": "Couche émissive"
+        },
+        {
+          "name": "Couche de réflexion"
+        },
+        {
+          "name": "Couche de réfraction"
+        },
+        {
+          "name": "Transparence"
+        }
+      ]
+    },
+    {
+      "titre": "Camera",
+      "list": [
+        {
+          "name": "Par défaut"
+        },
+        {
+          "name": "Choix de caméra"
+        },
+        {
+          "name": "Profondeur du champ"
+        },
+        {
+          "name": "Flou de mouvement"
+        }
+      ]
+    },
+    {
+      "titre": "Environnement",
+      "list": [
+        {
+          "name": "Arrière-plan"
+        },
+        {
+          "name": "Lucarne"
+        },
+        {
+          "name": "Réflexion"
+        },
+        {
+          "name": "Réfraction"
+        }
+      ]
+    },
+    {
+      "titre": "Sortie",
+      "list": [
+        {
+          "name": "Dimensions"
+        },
+        {
+          "name": "Sortie rendu"
+        },
+        {
+          "name": "Du rendu à l'image"
+        },
+        {
+          "name": "Animation"
+        }
+      ]
+    },
+    {
+      "titre": "Réglages",
+      "list": [
+        {
+          "name": "Échantillonneur d'images"
+        },
+        {
+          "name": "Échantillonneur QMC"
+        },
+        {
+          "name": "Cartographie des couleurs"
+        },
+        {
+          "name": "Déplacement"
+        },
+        {
+          "name": "Illumination indirecte"
+        },
+        {
+          "name": "Lumière"
+        },
+        {
+          "name": "Les caustiques"
+        }
+      ]
+    }
+  ],
+  "typeModelFormation": "2"
+},
+{
+  "_id": {
+    "$oid": "647a0e569476c241cd0ebcdf"
+  },
+  "nom": "impression 3D",
+  "text_1": [
+    {
+      "Text_1": "Dans cet atelier, les participants découvriront l’impression 3D. Pratique et utile pour le prototypage, cette technique permet de créer, rapidement et à peu de coûts, des objets en trois dimensions de la simplicité ou de la complexité voulue."
+    },
+    {
+      "Text_1": "Les participants seront initiés à l’histoire de l’impression 3D, aux bases de la technique et des matériaux pouvant être utilisés, à comment trouver des modèles en ligne pouvant être imprimés tels quels ou modifiés, et aux particularités de la modélisation 3D quand ils s’agit d’impression. Ils réaliseront un modèle 3D simple qui sera imprimé et qu’ils pourront, suite à l’impression, ramener à la maison."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685720642/grnoricmxrotk8kitiww.png",
+  "categorie": "Design",
+  "numOrdre": 5,
+  "duree": "2",
+  "prix": "790",
+  "programme": [
+    {
+      "titre": "Introduction à l’impression 3D :",
+      "list": [
+        {
+          "name": "Genèse de l'impression 3D"
+        },
+        {
+          "name": "Les fondations industrielles"
+        }
+      ]
+    },
+    {
+      "titre": "Quelle imprimante 3D choisir ? Pour quel besoin ?",
+      "list": [
+        {
+          "name": "Des technologies additives qui répondent à des besoins spécifiques"
+        },
+        {
+          "name": "Les différents domaines de l'impression 3D"
+        },
+        {
+          "name": "Par quoi commencer ?"
+        }
+      ]
+    },
+    {
+      "titre": "Premiers pas avec mon imprimante 3D :",
+      "list": [
+        {
+          "name": "Composition d'une imprimante 3D FFF (fabrication de filaments fondus)"
+        },
+        {
+          "name": "Introduction au langage G-Code"
+        },
+        {
+          "name": "Le flux de travail en impression : Naissance des idées, conception 3D"
+        },
+        {
+          "name": "Le « Slicers » d'impression 3D"
+        }
+      ]
+    },
+    {
+      "titre": "Montage et calibration mécanique :",
+      "list": [
+        {
+          "name": "Les points clés du montage de votre imprimante 3D"
+        },
+        {
+          "name": "La séquence de remise à l'origine des axes"
+        },
+        {
+          "name": "Les trois piliers de la calibration mécanique : le parallélisme, la distance buse-plateau, la tension des courroies"
+        }
+      ]
+    },
+    {
+      "titre": "En route vers la première impression 3D :",
+      "list": [
+        {
+          "name": "Les conditions pour imprimer"
+        },
+        {
+          "name": "Configuration de votre imprimante 3D"
+        },
+        {
+          "name": "Préparation de la première pièce"
+        },
+        {
+          "name": "Réalisation de la première impression 3D"
+        },
+        {
+          "name": "Bilan de la première impression et ajustements"
+        }
+      ]
+    },
+    {
+      "titre": "Calibration électronique de l'imprimante 3D :",
+      "list": [
+        {
+          "name": "Le contrôleur d'imprimante : Pronterface"
+        },
+        {
+          "name": "Le paramétrage électronique de l'imprimante 3D"
+        },
+        {
+          "name": "Calibration et réglage : de la roue d'extrusion, l’offset électronique Z, la tension des drivers moteurs"
+        },
+        {
+          "name": "Optimisation de l’imprimante : chauffe de la tête d'impression, chauffe du\nplateau"
+        }
+      ]
+    },
+    {
+      "titre": "L'importance de la première couche :",
+      "list": [
+        {
+          "name": "Une étape importante"
+        },
+        {
+          "name": "La planéité du lit d'impression"
+        },
+        {
+          "name": "Les phénomènes de warping et curling"
+        },
+        {
+          "name": "Les capteurs, assistants de votre première couche"
+        },
+        {
+          "name": "Les différences de première couche selon les matériaux imprimés"
+        }
+      ]
+    },
+    {
+      "titre": "Entretien et maintenance :",
+      "list": [
+        {
+          "name": "Entretien : Graissage des axes, lubrification des roulements…"
+        },
+        {
+          "name": "Maintenance : Changement de la buse d'impression, resserrer les jeux dans le guidage des axes"
+        }
+      ]
+    },
+    {
+      "titre": "Améliorer l'accroche de ses impressions :",
+      "list": [
+        {
+          "name": "Optimiser l'homogénéité de chauffe du plateau"
+        },
+        {
+          "name": "Les types de plateaux chauffants"
+        },
+        {
+          "name": "Isolation thermique de son plateau chauffant"
+        },
+        {
+          "name": "Puissance de chauffe, voltage et consommation"
+        },
+        {
+          "name": "Améliorer l'adhérence des pièces"
+        },
+        {
+          "name": "Méthodes pour retirer les pièces du plateau : la spatule, décollement à l'alcool ménager, plateaux souples …"
+        }
+      ]
+    },
+    {
+      "titre": "Optimiser ses paramètres d'impression :",
+      "list": [
+        {
+          "name": "Principaux paramètres à maîtriser : orientation de la pièce, Les paramètres d'impression principaux"
+        },
+        {
+          "name": "Adaptation des paramètres au type de pièce : Pièces rigides, Pièces souples ou légères …"
+        },
+        {
+          "name": "Scripts post-découpe : Changer un filament à une hauteur prédéfinie, la méthode « Pause at height », changer un paramètre à une hauteur prédéfinie"
+        }
+      ]
+    },
+    {
+      "titre": "La gestion des supports d'impression :",
+      "list": [
+        {
+          "name": "Tester les paramètres de supports"
+        },
+        {
+          "name": "Mettre en place les supports d'impression"
+        },
+        {
+          "name": "Orientation de la pièce pour optimiser la position des supports"
+        },
+        {
+          "name": "Mise en place automatique des supports"
+        },
+        {
+          "name": "Optimisation des supports d'impression"
+        },
+        {
+          "name": "Retirer les supports d'impression non désirés"
+        }
+      ]
+    },
+    {
+      "titre": "Les bobines et les matériaux :",
+      "list": [
+        {
+          "name": "Les formats des bobines"
+        },
+        {
+          "name": "Les différents diamètres de filaments"
+        },
+        {
+          "name": "Le stockage des bobines"
+        },
+        {
+          "name": "Les conditions d'impression"
+        },
+        {
+          "name": "La bobine sur l'imprimante 3D"
+        },
+        {
+          "name": "L'environnement et l'adhérence inter-couche"
+        },
+        {
+          "name": "La nécessité de la ventilation et d'un caisson"
+        },
+        {
+          "name": "Les dérouleurs de bobine"
+        },
+        {
+          "name": " Optimisation du passage de filament"
+        },
+        {
+          "name": "Les principaux filaments rigides : PLA, ABS, PETG"
+        },
+        {
+          "name": "Les filaments flexibles et semi-flexibles"
+        },
+        {
+          "name": "Les alliages et les filaments chargés en poudre ou en fibres"
+        },
+        {
+          "name": "Objectif des additifs"
+        },
+        {
+          "name": "Compatibilité avec les buses d'impression 3D"
+        },
+        {
+          "name": "Les filaments techniques : ASA, PET, Nylon, Polycarbonate - PC"
+        },
+        {
+          "name": "Les filaments sacrificiels"
+        }
+      ]
+    },
+    {
+      "titre": "Diagnostics sur pièces ratées :",
+      "list": [
+        {
+          "name": "Introduction"
+        },
+        {
+          "name": " Problèmes mécaniques : Tête d'impression bouchée, filament abîmé en entrée, extrusion non constante en sortie de buse …"
+        },
+        {
+          "name": "Problèmes au démarrage de l'impression : Absence d'extrusion au démarrage, non-adhésion de la pièce au plateau…"
+        },
+        {
+          "name": "Problèmes pendant l'impression : Sous-extrusion, sur-extrusion, décalage de couche"
+        },
+        {
+          "name": "Problèmes sur le rendu final : Bavures sur la paroi externe, rayures sur les surfaces supérieures, défauts de dimensions…"
+        }
+      ]
+    },
+    {
+      "titre": "Introduction à la multi-extrusion : ",
+      "list": [
+        {
+          "name": "Technologies de multi-extrusion"
+        },
+        {
+          "name": "Paramètres relatifs à la multi-extrusion"
+        },
+        {
+          "name": "Préparation d'une pièce en double extrusion"
+        },
+        {
+          "name": "Préparation d'une pièce avec support soluble"
+        }
+      ]
+    }
+  ],
+  "typeModelFormation": "2"
+},
+{
+  "_id": {
+    "$oid": "647a16a39476c241cd0ebd01"
+  },
+  "nom": "Dessin Industriel",
+  "text_1": [
+    {
+      "Text_1": "Le dessinateur industriel suit les indications précisées dans le cahier des charges. Il définit les éléments de la pièce ou de l’objet à réaliser, puis dessine des pièces, des assemblages ou des structures. Le dessinateur industriel établit le plan des pièces en tenant compte des contraintes techniques, la résistance thermique des matériaux et les normes de sécurité par exemple."
+    },
+    {
+      "Text_1": "Les évolutions technologiques ont permis un gain de temps et de productivité considérables ainsi qu’une amélioration de la qualité des produits. La profession tend à se spécialiser. Il existe trois types de fonctions : le dessinateur-projeteur, responsable d’un groupe de dessinateurs, qui résout tout problème lié à la réalisation ; le dessinateur d’études, qui élabore les plans détaillés de chaque pièce ; le dessinateur d’exécution, chargé de reproduire ou de réaliser des dessins définitifs."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "Bureau d'études et de méthodes",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685722755/e6nmyl2u8ag2djqhmeku.png",
+  "numOrdre": 1,
+  "duree": "2",
+  "prix": "1190",
+  "programme": [
+    {
+      "titre": "Notions générales",
+      "list": [
+        {
+          "name": "Finalité du dessin technique"
+        },
+        {
+          "name": "Unités du dessin technique"
+        },
+        {
+          "name": "Matériel du dessinateur"
+        },
+        {
+          "name": "Les règles du dessin"
+        },
+        {
+          "name": "Les types de dessin"
+        }
+      ]
+    },
+    {
+      "titre": "Conventions fondamentales du dessin industriel",
+      "list": [
+        {
+          "name": "Principes de représentations"
+        },
+        {
+          "name": "Convention"
+        },
+        {
+          "name": "Quelques principes fondamentaux"
+        },
+        {
+          "name": "Disposition des vues"
+        }
+      ]
+    },
+    {
+      "titre": "Caractéristiques des documents",
+      "list": [
+        {
+          "name": "Les formats"
+        },
+        {
+          "name": "Le cadre et le cartouche"
+        },
+        {
+          "name": "La nomenclature"
+        },
+        {
+          "name": "Les traits"
+        },
+        {
+          "name": "Les écritures"
+        }
+      ]
+    },
+    {
+      "titre": "Coupes et sections",
+      "list": [
+        {
+          "name": "Sections"
+        },
+        {
+          "name": "Coupes"
+        },
+        {
+          "name": "Coupes particulières"
+        },
+        {
+          "name": "Désignation des coupes"
+        }
+      ]
+    },
+    {
+      "titre": "Quelques principes de représentation",
+      "list": [
+        {
+          "name": "Les parties cachées"
+        },
+        {
+          "name": "Représentations simplifiées"
+        },
+        {
+          "name": "Les filetages"
+        }
+      ]
+    },
+    {
+      "titre": "Dessin en perspective",
+      "list": [
+        {
+          "name": "Perspective cavalière"
+        },
+        {
+          "name": "Perspective axonométrique"
+        },
+        {
+          "name": "Perspective isométrique"
+        }
+      ]
+    },
+    {
+      "titre": "Vocabulaire technique des formes d’une pièce",
+      "list": []
+    },
+    {
+      "titre": "Tolérances et ajustements",
+      "list": [
+        {
+          "name": "Objet des tolérances"
+        },
+        {
+          "name": "Système ISO"
+        },
+        {
+          "name": "Principe"
+        },
+        {
+          "name": "Désignation des tolérances"
+        },
+        {
+          "name": "Ajustement"
+        }
+      ]
+    },
+    {
+      "titre": "Exercices pratiques",
+      "list": [
+        {
+          "name": "Positions des vues"
+        },
+        {
+          "name": "Mes premiers dessins techniques"
+        },
+        {
+          "name": "Dessin avancé"
+        }
+      ]
+    }
+  ],
+  "typeModelFormation": "2"
+},
+{
+  "_id": {
+    "$oid": "647a193d9476c241cd0ebd0f"
+  },
+  "nom": "Tolérancement ISO et Cotation fonctionnelle",
+  "text_1": [
+    {
+      "Text_1": "Le dessinateur industriel suit les indications précisées dans le cahier des charges. Il définit les éléments de la pièce ou de l’objet à réaliser, puis dessine des pièces, des assemblages ou des structures. Le dessinateur industriel établit le plan des pièces en tenant compte des contraintes techniques, la résistance thermique des matériaux et les normes de sécurité par exemple."
+    },
+    {
+      "Text_1": "Les évolutions technologiques ont permis un gain de temps et de productivité considérables ainsi qu’une amélioration de la qualité des produits. La profession tend à se spécialiser. Il existe trois types de fonctions : le dessinateur-projeteur, responsable d’un groupe de dessinateurs, qui résout tout problème lié à la réalisation ; le dessinateur d’études, qui élabore les plans détaillés de chaque pièce ; le dessinateur d’exécution, chargé de reproduire ou de réaliser des dessins définitifs."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "Bureau d'études et de méthodes",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685723425/snip4y6yviozpb7vx3sl.png",
+  "numOrdre": 2,
+  "duree": "2",
+  "prix": "1190",
+  "programme": [
+    {
+      "titre": "Comprendre le principe de spécifications d'une géométrie avec défauts",
+      "list": [
+        {
+          "name": "Les formes idéales : modèle SATT"
+        },
+        {
+          "name": "Les formes réelles : les sytèmes de mesure"
+        },
+        {
+          "name": "Les écarts entre géométrie idéale et forme réelle"
+        },
+        {
+          "name": "Limitation des écarts géométriques : spécifications par dimension, par zone de tolérance, par gabarit, par domaine de tolérance"
+        }
+      ]
+    },
+    {
+      "titre": "Comprendre le tolérancement dimensionnel et géométrique ISO",
+      "list": [
+        {
+          "name": "Spécification géométrique des produits et normalisation : concept GPS"
+        },
+        {
+          "name": "Principe de l'indépendance"
+        },
+        {
+          "name": "Tolérancement dimensionnel : ISO 8015, ISO 286-1 : 1988"
+        },
+        {
+          "name": "Tolérancement géométrique : désignation d'un élément tolérancé, référence, zones de tolérance ..."
+        }
+      ]
+    },
+    {
+      "titre": "Cas types de tolérances géométriques",
+      "list": [
+        {
+          "name": "Méthode de lecture d'une tolérance géométrique : les étapes de la lecture d'une tolérance géométrique, fiche de lecture des étapes"
+        },
+        {
+          "name": "Cas de tolérance de forme : rectitude, planéité, circularité, cylindricité..."
+        },
+        {
+          "name": "Cas de tolérance d'orientation : parallélisme, perpendicularité, inclinaison"
+        },
+        {
+          "name": "Cas de tolérance de position : localisation, concentricité, coaxialité, symétrie"
+        },
+        {
+          "name": "Cas de tolérance de battement : battement, battement circulaire, battement total"
+        },
+        {
+          "name": "Cas de cônes : définition et indication de la conicité, tolérancement d'une surface conique"
+        },
+        {
+          "name": "Cas des pièces non rigides : principe, indications, exemples"
+        },
+        {
+          "name": "Indication des états de surface : présentation, indication sur le dessin"
+        }
+      ]
+    },
+    {
+      "titre": "Appliquer une exigence",
+      "list": [
+        {
+          "name": "Exigence d'enveloppe"
+        },
+        {
+          "name": "Exigence du maximum de matière"
+        },
+        {
+          "name": "Exigence du minimum de matière"
+        },
+        {
+          "name": "Tolérance projetées"
+        }
+      ]
+    },
+    {
+      "titre": "Démarche de cotation fonctionnelle",
+      "list": [
+        {
+          "name": "L'activité de tolérancement"
+        },
+        {
+          "name": "L'analyse fonctionnelle technique"
+        },
+        {
+          "name": "Détermination des chaînes de cotes unidirectionnelles et qualification des tolérances"
+        }
+      ]
+    },
+    {
+      "titre": "Hiérarchisation des caractéristiques produits-processus",
+      "list": [
+        {
+          "name": "Principes de base"
+        },
+        {
+          "name": "Le respect de toutes les spécifications"
+        },
+        {
+          "name": "Déterminer les classes de gravité"
+        },
+        {
+          "name": "Evaluer la faisabilité prévisionnelle de la réalisation d'un carctéristique"
+        },
+        {
+          "name": "Criticités et plans d'action"
+        }
+      ]
+    }
+  ],
+  "typeModelFormation": "2"
+},
+{
+  "_id": {
+    "$oid": "647a218a9476c241cd0ebd24"
+  },
+  "nom": "Dessin du bâtiment",
+  "text_1": [
+    {
+      "Text_1": "La construction d’un bâtiment est une opération complexe qui nécessite la collaboration de"
+    },
+    {
+      "Text_1": "nombreux intervenants (maître d’ouvrage, maître d’œuvre, bureau de contrôle technique,"
+    },
+    {
+      "Text_1": "bureaux d’études techniques, entreprises), et qui s’appuie sur un ensemble de dossiers"
+    },
+    {
+      "Text_1": "comprenant des pièces écrites (CCTP, DQE, PPSPS,…) et des pièces dessinées."
+    },
+    {
+      "Text_1": "Un projet de construction est une maison individuelle, un bâtiment administratif, un  immeuble, une rénovation, une usine, un bâtiment agricole ou industriel, etc.…"
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "Bureau d'études et de méthodes",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685725567/b8eyqxlzre9bcsebdk9k.png",
+  "numOrdre": 3,
+  "duree": "2",
+  "prix": "1190",
+  "programme": [
+    {
+      "titre": "Notions générales",
+      "list": [
+        {
+          "name": "Finalité du dessin technique"
+        },
+        {
+          "name": "Unités du dessin technique"
+        },
+        {
+          "name": "Matériel du dessinateur"
+        },
+        {
+          "name": "Les règles"
+        },
+        {
+          "name": "Les types de dessin"
+        }
+      ]
+    },
+    {
+      "titre": "Les éléments du dessin",
+      "list": [
+        {
+          "name": "Terminologie des dessins."
+        },
+        {
+          "name": "Présentations des dessins."
+        },
+        {
+          "name": "Cartouche"
+        },
+        {
+          "name": "Formats, pliages, échelle"
+        },
+        {
+          "name": "La mise en place des vues principales dans le format"
+        }
+      ]
+    },
+    {
+      "titre": "Conventions de représentation",
+      "list": [
+        {
+          "name": "Trais"
+        },
+        {
+          "name": "Écritures"
+        },
+        {
+          "name": "Hachures, teintes"
+        },
+        {
+          "name": "Portes"
+        },
+        {
+          "name": "Fenêtres, ascenseurs, divers"
+        },
+        {
+          "name": "Conduits"
+        },
+        {
+          "name": "Mobilier"
+        },
+        {
+          "name": "Appareils sanitaires"
+        }
+      ]
+    },
+    {
+      "titre": "Les projections",
+      "list": [
+        {
+          "name": "Introduction"
+        },
+        {
+          "name": "Définition d’un espace orthogonal tridimensionnel"
+        },
+        {
+          "name": "Les projections"
+        },
+        {
+          "name": "Projection d’un point"
+        },
+        {
+          "name": "Projection d’une droite"
+        },
+        {
+          "name": "Projection d’une surface"
+        },
+        {
+          "name": "Projection d’un volume"
+        },
+        {
+          "name": "Vues usuelles"
+        },
+        {
+          "name": "Plans"
+        },
+        {
+          "name": "Coupes, sections"
+        },
+        {
+          "name": "Coupes partielles"
+        },
+        {
+          "name": "Façades"
+        },
+        {
+          "name": "Plans de masse et de situation."
+        }
+      ]
+    },
+    {
+      "titre": "Les perspectives",
+      "list": [
+        {
+          "name": "Perspective cavalière"
+        },
+        {
+          "name": "Perspective axonométrique"
+        }
+      ]
+    },
+    {
+      "titre": "La cotation",
+      "list": [
+        {
+          "name": "La cotation"
+        },
+        {
+          "name": "Les éléments de la cotation"
+        },
+        {
+          "name": "Terminologie"
+        },
+        {
+          "name": "Règles générales d’exécution"
+        },
+        {
+          "name": "Règles générales de mise en place de la cotation"
+        },
+        {
+          "name": "Les modes normalisés de disposition des cotes"
+        },
+        {
+          "name": "Implantation du gros œuvre"
+        },
+        {
+          "name": "Implantation de planché et cloisons"
+        },
+        {
+          "name": "Cotation d’un plan"
+        },
+        {
+          "name": "Modulation"
+        },
+        {
+          "name": "Dimensions des constructions"
+        },
+        {
+          "name": "Tolérances"
+        }
+      ]
+    },
+    {
+      "titre": "Les coupes",
+      "list": [
+        {
+          "name": "Principe"
+        },
+        {
+          "name": "Repérage des coupes"
+        },
+        {
+          "name": "Disposition des coupes"
+        },
+        {
+          "name": "Autres coupes"
+        },
+        {
+          "name": "Représentation des matériaux"
+        },
+        {
+          "name": "Les sections"
+        }
+      ]
+    }
+  ],
+  "typeModelFormation": "2"
+},
+{
+  "_id": {
+    "$oid": "647a24449476c241cd0ebd39"
+  },
+  "nom": "Tuyauterie industrielle",
+  "text_1": [
+    {
+      "Text_1": "L’étude d’un réseau de tuyauteries débute au niveau du PROCESS ENGINEERING ou les ingénieurs \" Process \" vont mettre sur papier le cheminement des produits dans les tuyauteries et appareils en tenant compte des réactions sous l’action de divers facteurs tels que : pression, température, débit, mélange. De leurs travaux va résulter un schéma général d’avant-projet appelé PROCESS FLOW DIAGRAM ( PFD ) qui servira à l’établissement d’un budget et pour la répartition des tâches (rôle tenu par le responsable du bureau de dessin et par l’ingénieur de projet). Notons que l’investissement en tuyauteries représente plus ou moins 30% du budget d’une installation chimique, selon évidemment le type de fabrication, mais vous constaterez que cela représente une part non négligeable dans le montant de l’investissement, ce qui implique que nous devons apporter un soin tout particulier à notre travail."
+    },
+    {
+      "Text_1": "A partir des PFD, les ingénieurs Process et Instrumentation vont maintenant détailler le processus pour réaliser les PID ( PIPING INSTRUMENTATION DIAGRAM ) qui rendent compte des boucles d’instrumentation ce qui donne une idée précise du déroulement du futur processus, les PID sont normalisés (ex: CODES ISA; ISO; ... ). Vient ensuite l’entrée en matière des ingénieurs « DESIGNER » et des dessinateurs qui vont interpréter les PID pour enfin élaborer les « LAYOUTS » ou plans d’ensemble avec disposition des appareils, toujours évidemment en collaboration avec les ingénieurs Process. Viendra par la suite, outre l’étude des structures, le tracé global des tuyauteries et leurs calculs (Détermination des diamètres nominaux; pertes de charge; contraintes et dilatations) le tout en étroite collaboration entre les ingénieurs et les dessinateurs, afin d’aboutir à la certification des tracés."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1685726271/dl5qtamirjca6swot3r6.png",
+  "categorie": "Bureau d'études et de méthodes",
+  "numOrdre": 4,
+  "duree": "2",
+  "prix": "1190",
+  "programme": [
+    {
+      "titre": "Technologie",
+      "list": [
+        {
+          "name": "Le process"
+        },
+        {
+          "name": "Généralités"
+        },
+        {
+          "name": "Technologie des tuyauteries et accessoires"
+        },
+        {
+          "name": "Instrumentation"
+        }
+      ]
+    },
+    {
+      "titre": "Construction",
+      "list": [
+        {
+          "name": "Mise en œuvre des tuyauteries"
+        },
+        {
+          "name": "Contrôle des tuyauteries"
+        },
+        {
+          "name": "Techniques spéciales"
+        },
+        {
+          "name": "Demandes et offres de prix"
+        }
+      ]
+    },
+    {
+      "titre": "Supportage et flexibilité des tuyauteries",
+      "list": [
+        {
+          "name": "Introduction"
+        },
+        {
+          "name": "Étude du supportage"
+        },
+        {
+          "name": "Étude de flexibilité"
+        },
+        {
+          "name": "Les compensateurs"
+        },
+        {
+          "name": "Calcul des tuyauteries plastiques"
+        }
+      ]
+    },
+    {
+      "titre": "L'étude et la représentation des tuyauteries",
+      "list": [
+        {
+          "name": "Le bureau d'études en tuyauteries"
+        },
+        {
+          "name": "Représentation des tuyauteries"
+        },
+        {
+          "name": "Le dessin technique des tuyauteries"
+        },
+        {
+          "name": "Notions de traçage"
+        }
+      ]
+    },
+    {
+      "titre": "Catalogue général",
+      "list": [
+        {
+          "name": "Dimensions des coudes"
+        },
+        {
+          "name": "Dimensions des réductions concentriques et excentriques"
+        },
+        {
+          "name": "Tés égaux et réduits en ac. Carbone"
+        },
+        {
+          "name": "Fonds emboutis ( caps )"
+        },
+        {
+          "name": "Raccords de dérivation renforcés suivant norme ANSI b16.25"
+        }
+      ]
+    }
+  ],
+  "typeModelFormation": "2"
+},
+{
+  "_id": {
+    "$oid": "64819eed5f4fed7911918acd"
+  },
+  "nom": "AUTOCAD Plant 3D",
+  "text_1": [
+    {
+      "Text_1": "Autocad Plant 3D, un produit d'Autodesk, est un logiciel de conception et d'aménagement d'usine. Il est largement utilisé dans l'industrie pour créer et modifier les P&ID et les modèles 3D des usines et de installations de traitement. Construit sur la plate-forme Autocad, ce logiciel permet de mener à bien le processus de conception d'une manière basée sur un projet. L’ensemble d’outils moderne disponible dans ce logiciel permet aux concepteurs et aux ingénieurs, qui modélisent et documentent les usines de traitement, de générer et de partager des dessins isométriques, des dessins orthographiques et des rapports sur les matériaux. Vous pouvez également intégrer Autocad Plant 3D à Navisworks et importer des concepteurs créés dans Revit et Inventor."
+    },
+    {
+      "Text_1": "Notre formation Autocad Plant 3D vous permettra d'utiliser efficacement les outils de conception d'Autocad Plant 3D. Les travaux dirigés et exercices d'accompagnement, qui se rapportent aux projets du monde réel, vous aident à comprendre l'utilisation et les capacités des outils disponibles dans Autocad Plant 3D. Vous apprendrez à configurer un projet, à créer et à modifier des P&ID, à concevoir un modèle d'usine 3D, à générer des dessins isométriques/orthographiques, ainsi qu'à publier et imprimer des dessins et documents. Notre formation Autocad Plant 3D est structurée selon une séquence pédagogique qui la rend très efficace pour apprendre les fonctionnalités et les capacités du logiciel."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "categorie": "DAO et Architecture",
+  "numOrdre": 2,
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686217785/mj7h4ehc1hrkljn0pkhc.png",
+  "programme": [],
+  "typeModelFormation": "1"
+},
+{
+  "_id": {
+    "$oid": "64830243444d15a73ded4587"
+  },
+  "nom": "Word",
+  "text_1": [
+    {
+      "Text_1": "Savoir créer un document texte avec le logiciel Microsoft Word, gérer la mise en page et l'impression et faire du publipostage."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "programme": [
+    {
+      "titre": "Gérer",
+      "list": [
+        {
+          "name": "Créer une simulation"
+        },
+        {
+          "name": "Table paramétrique"
+        }
+      ]
+    },
+    {
+      "titre": "Introduction",
+      "list": [
+        {
+          "name": "Introduction de l’interface"
+        },
+        {
+          "name": "Options et préférences"
+        },
+        {
+          "name": "Créer et sauvegarder un document"
+        }
+      ]
+    },
+    {
+      "titre": "Accueil",
+      "list": [
+        {
+          "name": "Se familiariser avec la saisie du texte"
+        },
+        {
+          "name": "Police : type, taille, gras, italique, souligné …"
+        },
+        {
+          "name": "Paragraphe : aligner (à gauche, à droite, centrer), interligne et espacement, Puces et numéros"
+        },
+        {
+          "name": "Les styles : créer, appliquer"
+        }
+      ]
+    },
+    {
+      "titre": "Insertion",
+      "list": [
+        {
+          "name": "Pages : de garde, vide, saut de page"
+        },
+        {
+          "name": "Tableau : insérer, dessiner, convertir le texte en tableau, feuille Excell"
+        },
+        {
+          "name": "Illustrations : images, formes, SmartArt, graphique, capture"
+        },
+        {
+          "name": "Compléments : Store, mes compléments, Wikipédia"
+        },
+        {
+          "name": "Média : Vidéo en ligne"
+        },
+        {
+          "name": "Liens : lien, signet, renvoi"
+        },
+        {
+          "name": "Commentaires"
+        },
+        {
+          "name": "En-tête et pied de page"
+        },
+        {
+          "name": "Texte : zone de texte, QuickPart, WordArt, Lettrine, signature, date et heure, objet"
+        },
+        {
+          "name": "Symboles : équation, symbole"
+        }
+      ]
+    },
+    {
+      "titre": "Création",
+      "list": [
+        {
+          "name": "Thèmes : rechercher, appliquer, enregistrer"
+        },
+        {
+          "name": "Couleurs"
+        },
+        {
+          "name": "Polices"
+        },
+        {
+          "name": "Espacement graphique"
+        },
+        {
+          "name": "Effets"
+        },
+        {
+          "name": "Arrière-plan de la page : filigrane, couleur de la page, bordures de page"
+        }
+      ]
+    },
+    {
+      "titre": "Mise en page",
+      "list": [
+        {
+          "name": "Mise en page : marges, orientation, taille, colonnes, saut de page, numéros de lignes"
+        },
+        {
+          "name": "Paragraphe : retrait, espacement"
+        },
+        {
+          "name": "Organiser : position, habillage, avancer, reculer, aligner, grouper rotation, volet sélection"
+        }
+      ]
+    },
+    {
+      "titre": "Références",
+      "list": [
+        {
+          "name": "Table de matières : ajouter/supprimer, ajouter le texte, mettre à jour la table"
+        },
+        {
+          "name": "Notes de bas de page : insérer une note de bas de page, insérer une note de fin, afficher les notes"
+        },
+        {
+          "name": "Recherche"
+        },
+        {
+          "name": "Citations de bibliographie : insérer une citation, gérer les sources, style, bibliographie"
+        },
+        {
+          "name": "Légendes : insérer une légende, insérer/mettre à jour une table des illustrations, renvoi"
+        },
+        {
+          "name": "Index : marquer entrée, insérer/mettre à jour l’index"
+        },
+        {
+          "name": "Table de références : marquer citation, insérer/mettre à jour une table de références"
+        }
+      ]
+    },
+    {
+      "titre": "Publipostage",
+      "list": [
+        {
+          "name": "Créer : enveloppes, étiquettes"
+        },
+        {
+          "name": "Fusion et publipostage : démarrer la fusion, sélection des destinataires, modifier la liste des destinataires"
+        },
+        {
+          "name": "Champs d’écriture et d’insertion : champs de fusion, bloc d’adresse, formule d’appel …"
+        },
+        {
+          "name": "Aperçu des résultats : aperçu, rechercher un destinataire, rechercher les erreurs,"
+        },
+        {
+          "name": "Terminer et fusionner"
+        }
+      ]
+    },
+    {
+      "titre": "Révision",
+      "list": [
+        {
+          "name": "Vérification : grammaire et orthographe, dictionnaire des synonymes, statistiques"
+        },
+        {
+          "name": "Accessibilité"
+        },
+        {
+          "name": "Langue : préférences linguistiques, traduire"
+        },
+        {
+          "name": "Commentaires : créer/supprimer, précèdent/suivant, afficher les commentaires"
+        },
+        {
+          "name": "Suivi : des modifications, marques, volet vérification"
+        },
+        {
+          "name": "Modifications"
+        },
+        {
+          "name": "Comparer"
+        },
+        {
+          "name": "Protéger"
+        },
+        {
+          "name": "Entrée manuscrite"
+        }
+      ]
+    },
+    {
+      "titre": "Affichage",
+      "list": [
+        {
+          "name": "Vues : mode lecture, page, web, plan, brouillon"
+        },
+        {
+          "name": "Mouvement de page : vertical, côte à côte"
+        },
+        {
+          "name": "Afficher : règle, quadrillage, volet de navigation"
+        },
+        {
+          "name": "Zoom : une page, plusieurs pages, largeur de la page"
+        },
+        {
+          "name": "Fenêtre : nouvelle, réorganiser, fractionner"
+        },
+        {
+          "name": "SharePoint"
+        }
+      ]
+    }
+  ],
+  "categorie": "Bureautique",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686306972/lfwi6udfz4hppsmd3xob.jpg",
+  "numOrdre": 1,
+  "duree": "3",
+  "prix": "850",
+  "typeModelFormation": "2"
+},
+{
+  "_id": {
+    "$oid": "6483066e444d15a73ded45d0"
+  },
+  "nom": "Excel",
+  "text_1": [
+    {
+      "Text_1": "Acquérir les bases essentielles du logiciel Microsoft Excel pour créer des tableurs, savoir faire des formules et des tableaux croisés dynamiques, apprendre à faire des graphiques."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "programme": [
+    {
+      "titre": "Introduction",
+      "list": [
+        {
+          "name": "Introduction de l’interface"
+        },
+        {
+          "name": "Options et préférences"
+        },
+        {
+          "name": "Créer et sauvegarder un document"
+        }
+      ]
+    },
+    {
+      "titre": "Accueil",
+      "list": [
+        {
+          "name": "Se familiariser avec la création de tableur"
+        },
+        {
+          "name": "Police : type, taille, gras, italique, souligné …"
+        },
+        {
+          "name": "Alignement : à gauche, à droite, centrer, fusionner et centrer"
+        },
+        {
+          "name": "Nombre : format, séparateur des milliers, ajouter/réduire les décimales"
+        },
+        {
+          "name": "Les styles : mise en forme, mise en forme conditionnelle"
+        },
+        {
+          "name": "Cellules : insérer, supprimer, format"
+        },
+        {
+          "name": "Édition : somme automatique, recopier, effacer, trier et filtrer"
+        }
+      ]
+    },
+    {
+      "titre": "Insertion",
+      "list": [
+        {
+          "name": "Tableaux : tableau croisé dynamique"
+        },
+        {
+          "name": "Illustrations : images, formes, SmartArt, graphique, capture"
+        },
+        {
+          "name": "Compléments : Store, mes compléments, Wikipédia"
+        },
+        {
+          "name": "Graphiques : recommandé, croisé dynamique"
+        },
+        {
+          "name": "Présentations"
+        },
+        {
+          "name": "Graphiques sparkline : courbe, histogramme, positif/négatif"
+        },
+        {
+          "name": "Filtres"
+        },
+        {
+          "name": "Liens"
+        },
+        {
+          "name": "Texte : En-tête et pied de page"
+        },
+        {
+          "name": "Symboles : équation, symbole"
+        }
+      ]
+    },
+    {
+      "titre": "Mise en page",
+      "list": [
+        {
+          "name": "Thèmes : rechercher, appliquer, enregistrer"
+        },
+        {
+          "name": "Mise en page : marges, orientation, taille, colonnes, saut de page, numéros de lignes"
+        },
+        {
+          "name": "Mise à l’échelle : largeur, hauteur, échelle"
+        },
+        {
+          "name": "Options de feuille de calcul : quadrillage, en-tête"
+        },
+        {
+          "name": "Organiser : avancer, reculer, aligner, grouper, rotation, volet sélection"
+        }
+      ]
+    },
+    {
+      "titre": "Formules",
+      "list": [
+        {
+          "name": "Bibliothèque de fonctions : Insérer une fonction"
+        },
+        {
+          "name": "Noms définis : gestionnaire de noms, définir un nom"
+        },
+        {
+          "name": "Vérification des formules : repérer les antécédents/dépendants, afficher les formules, supprimer les flèches, évaluer la formule, fenêtre espion"
+        },
+        {
+          "name": "Calcul : options de calcul, calculer maintenant, calculer la feuille"
+        }
+      ]
+    },
+    {
+      "titre": "Révision",
+      "list": [
+        {
+          "name": "Vérification : grammaire et orthographe, dictionnaire des synonymes, statistiques"
+        },
+        {
+          "name": "Accessibilité"
+        },
+        {
+          "name": "Langue : préférences linguistiques, traduire"
+        },
+        {
+          "name": "Commentaires : créer/supprimer, précèdent/suivant, afficher les commentaires"
+        },
+        {
+          "name": "Protéger : la feuille, le classeur, autoriser la modification des plages, annuler le partage du classeur"
+        },
+        {
+          "name": "Entrée manuscrite"
+        }
+      ]
+    },
+    {
+      "titre": "Affichage",
+      "list": [
+        {
+          "name": "Modes d’affichage : normal, avec statuts de page, mise en page, personnalisé"
+        },
+        {
+          "name": "Afficher : règle, quadrillage, barre de formule"
+        },
+        {
+          "name": "Zoom : une page, plusieurs pages, largeur de la page"
+        },
+        {
+          "name": "Fenêtre : nouvelle, réorganiser, fractionner"
+        }
+      ]
+    }
+  ],
+  "duree": "4",
+  "prix": "1190",
+  "typeModelFormation": "2",
+  "categorie": "Bureautique",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686308003/m0ajjnohebgzhi1v3bgn.jpg",
+  "numOrdre": 2
+},
+{
+  "_id": {
+    "$oid": "648307e7444d15a73ded45e6"
+  },
+  "nom": "PowerPoint",
+  "text_1": [
+    {
+      "Text_1": "Savoir réaliser des présentations avec le logiciel PowerPoint."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "programme": [
+    {
+      "titre": "Introduction",
+      "list": [
+        {
+          "name": "Introduction de l’interface"
+        },
+        {
+          "name": "Options et préférences"
+        },
+        {
+          "name": "Créer et sauvegarder un document"
+        }
+      ]
+    },
+    {
+      "titre": "Accueil",
+      "list": [
+        {
+          "name": "Se familiariser avec l’interface"
+        },
+        {
+          "name": "Diapositives : nouvelle, disposition, rétablir, section"
+        },
+        {
+          "name": "Police : type, taille, gras, italique, souligné …"
+        },
+        {
+          "name": "Paragraphe : aligner (à gauche, à droite, centrer), interligne et espacement, Puces et numéros"
+        },
+        {
+          "name": "Dessin : les outils de dessin, organiser, styles rapides, remplissage, couleurs, effets"
+        },
+        {
+          "name": "Édition : recherche, remplacer, sélectionner"
+        }
+      ]
+    },
+    {
+      "titre": "Insertion",
+      "list": [
+        {
+          "name": "Diapositives : nouvelle, dupliquer, à partir d’un plan"
+        },
+        {
+          "name": "Tableau : insérer, dessiner, feuille Excel"
+        },
+        {
+          "name": "Images : insérer, en ligne, capture, album photo"
+        },
+        {
+          "name": "Illustrations : formes, SmartArt, graphique"
+        },
+        {
+          "name": "Compléments : Store, mes compléments, Wikipedia"
+        },
+        {
+          "name": "Liens : lien, action"
+        },
+        {
+          "name": "Commentaires"
+        },
+        {
+          "name": "Texte : zone de texte, En-tête et pied de page, WordArt, date et heure, numéro de diapositive, objet"
+        },
+        {
+          "name": "Symboles : équation, symbole"
+        },
+        {
+          "name": "Média : Vidéo, audio, enregistrement de l’écran"
+        }
+      ]
+    },
+    {
+      "titre": "Création",
+      "list": [
+        {
+          "name": "Thèmes : rechercher, appliquer, enregistrer"
+        },
+        {
+          "name": "Variantes : Couleurs, polices, effets, couleurs d’arrière-plan"
+        },
+        {
+          "name": "Personnaliser : taille des diapositives, mise en forme de l’arrière-plan"
+        }
+      ]
+    },
+    {
+      "titre": "Transitions",
+      "list": [
+        {
+          "name": "Aperçu"
+        },
+        {
+          "name": "Transitions"
+        },
+        {
+          "name": "Minutage"
+        }
+      ]
+    },
+    {
+      "titre": "Animations",
+      "list": [
+        {
+          "name": "Aperçu"
+        },
+        {
+          "name": "Animation"
+        },
+        {
+          "name": "Animation avancée"
+        },
+        {
+          "name": "Minutage"
+        }
+      ]
+    },
+    {
+      "titre": "Diaporama",
+      "list": [
+        {
+          "name": "Démarrage du diaporama : à partir du début, de la diapositive actuelle"
+        },
+        {
+          "name": "Configuration : configurer le diaporama, masquer la diapositive, vérifier le minutage, enregistrer le diaporama"
+        },
+        {
+          "name": "Moniteurs"
+        }
+      ]
+    },
+    {
+      "titre": "Révision",
+      "list": [
+        {
+          "name": "Vérification : grammaire et orthographe, dictionnaire des synonymes, statistiques"
+        },
+        {
+          "name": "Accessibilité"
+        },
+        {
+          "name": "Langue : préférences linguistiques, traduire"
+        },
+        {
+          "name": "Commentaires : créer/supprimer, précèdent/suivant, afficher les commentaires"
+        },
+        {
+          "name": "Comparer : accepter, refuser, précèdent, suivant"
+        },
+        {
+          "name": "Entrée manuscrite"
+        }
+      ]
+    },
+    {
+      "titre": "Affichage",
+      "list": [
+        {
+          "name": "Modes de présentation : normale, mode plan, trieuse de diapositive, page de notes, mode lecture"
+        },
+        {
+          "name": "Modes masque : masque des diapositives, masque du document, masque des pages de notes"
+        },
+        {
+          "name": "Afficher : règle, quadrillage, volet de navigation"
+        },
+        {
+          "name": "Zoom : une page, plusieurs pages, largeur de la page"
+        },
+        {
+          "name": "Couleurs/nuances de gris : couleurs, nuances de gris, noir et blanc"
+        },
+        {
+          "name": "Fenêtre : nouvelle, réorganiser, fractionner"
+        }
+      ]
+    }
+  ],
+  "duree": "2",
+  "prix": "540",
+  "typeModelFormation": "2",
+  "categorie": "Bureautique",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686308551/eijsi0p9b2btdda0vt4j.jpg",
+  "numOrdre": 3
+},
+{
+  "_id": {
+    "$oid": "64831f7c444d15a73ded4604"
+  },
+  "nom": "Outlook",
+  "text_1": [],
+  "list": [],
+  "text_2": [],
+  "programme": [],
+  "typeModelFormation": "0",
+  "categorie": "Bureautique",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686314856/jr7u63oaeh74cq5nt3pw.jpg",
+  "numOrdre": 4
+},
+{
+  "_id": {
+    "$oid": "64832966444d15a73ded4624"
+  },
+  "nom": "Publisher",
+  "text_1": [
+    {
+      "Text_1": "Créer des documents et catalogues avec le logiciel Publisher."
+    }
+  ],
+  "list": [],
+  "text_2": [],
+  "programme": [
+    {
+      "titre": "Introduction",
+      "list": [
+        {
+          "name": "Introduction de l’interface"
+        },
+        {
+          "name": "Options et préférences"
+        },
+        {
+          "name": "Créer et sauvegarder un document"
+        }
+      ]
+    },
+    {
+      "titre": "Accueil",
+      "list": [
+        {
+          "name": "Se familiariser avec la saisie du texte"
+        },
+        {
+          "name": "Police : type, taille, gras, italique, souligné …"
+        },
+        {
+          "name": "Paragraphe : aligner (à gauche, à droite, centrer), interligne et espacement, Puces et numéros"
+        },
+        {
+          "name": "Les styles : créer, appliquer"
+        },
+        {
+          "name": "Objets : dessiner une zone de texte, images, tableau, formes"
+        },
+        {
+          "name": "Organiser : habillage, avancer, reculer, aligner, grouper/dissocier, rotation, volet sélection"
+        },
+        {
+          "name": "Édition : rechercher, remplacer, sélectionner"
+        }
+      ]
+    },
+    {
+      "titre": "Insertion",
+      "list": [
+        {
+          "name": "Pages : page, page vide, page en double, pages du catalogue"
+        },
+        {
+          "name": "Tableau : insérer, dessiner, convertir le texte en tableau, feuille Excel,"
+        },
+        {
+          "name": "Illustrations : images, formes, SmartArt, graphique, capture"
+        },
+        {
+          "name": "Blocs de construction : composants de page, calendrier, bordures et ornements, annonces"
+        },
+        {
+          "name": "Texte : zone de texte, Informations professionnelles, WordArt, date et heure, objet, symbole, insérer un fichier"
+        },
+        {
+          "name": "Liens : lien, signet"
+        },
+        {
+          "name": "En-tête et pied de page"
+        }
+      ]
+    },
+    {
+      "titre": "Création de page",
+      "list": [
+        {
+          "name": "Modèle : changer de modèle, options"
+        },
+        {
+          "name": "Mise en page : marges, orientation, taille, colonnes, saut de page, numéros de lignes"
+        },
+        {
+          "name": "Disposition : repères, objets"
+        },
+        {
+          "name": "Pages : supprimer, déplacer, renommer"
+        },
+        {
+          "name": "Jeux : Couleurs, Polices"
+        },
+        {
+          "name": "Arrière-plan de la page : filigrane, couleur de la page, bordures de page"
+        }
+      ]
+    },
+    {
+      "titre": "Publipostage",
+      "list": [
+        {
+          "name": "Démarrer : Fusion et publipostage, publipostage électronique, sélection des destinataires"
+        },
+        {
+          "name": "Champs d’écriture et d’insertion : champs de fusion, bloc d’adresse, formule d’appel …"
+        },
+        {
+          "name": "Aperçu des résultats : aperçu, rechercher un destinataire, rechercher les erreurs,"
+        },
+        {
+          "name": "Terminer et fusionner"
+        }
+      ]
+    },
+    {
+      "titre": "Révision",
+      "list": [
+        {
+          "name": "Vérification : grammaire et orthographe, dictionnaire des synonymes, statistiques"
+        },
+        {
+          "name": "Langue : préférences linguistiques, traduire"
+        }
+      ]
+    },
+    {
+      "titre": "Affichage",
+      "list": [
+        {
+          "name": "Vues : normal, page maître"
+        },
+        {
+          "name": "Disposition : une seule page, page double"
+        },
+        {
+          "name": "Afficher : règle, quadrillage, limites …"
+        },
+        {
+          "name": "Zoom : une page, plusieurs pages, largeur de la page"
+        },
+        {
+          "name": "Fenêtre : nouvelle, réorganiser, fractionner"
+        }
+      ]
+    }
+  ],
+  "duree": "2",
+  "prix": "790",
+  "typeModelFormation": "2",
+  "categorie": "Bureautique",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686315551/vrgaqdrzg9bxzwim4mph.png",
+  "numOrdre": 5
+},
+{
+  "_id": {
+    "$oid": "64832d1f444d15a73ded4642"
+  },
+  "nom": "OneNote",
+  "text_1": [],
+  "list": [],
+  "text_2": [],
+  "programme": [],
+  "typeModelFormation": "0",
+  "categorie": "Bureautique",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686317557/bumgdoanj5pt54imxxoh.png",
+  "numOrdre": 6
+},
+{
+  "_id": {
+    "$oid": "64832e81444d15a73ded46c8"
+  },
+  "nom": "Photoshop",
+  "text_1": [],
+  "list": [],
+  "text_2": [],
+  "programme": [],
+  "typeModelFormation": "0",
+  "categorie": "PAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686318717/zxlortzcvy7ixdlf1zj2.jpg",
+  "numOrdre": 1
+},
+{
+  "_id": {
+    "$oid": "64832f6d444d15a73ded46ec"
+  },
+  "nom": "Illustrator",
+  "text_1": [],
+  "list": [],
+  "text_2": [],
+  "programme": [],
+  "typeModelFormation": "0",
+  "categorie": "PAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686318953/wuewqvjwn83qcv2arigw.png",
+  "numOrdre": 2
+},
+{
+  "_id": {
+    "$oid": "64832fde444d15a73ded4702"
+  },
+  "nom": "InDesign",
+  "text_1": [],
+  "list": [],
+  "text_2": [],
+  "programme": [],
+  "typeModelFormation": "0",
+  "categorie": "PAO",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686319058/zufs7befxhxcy1zducas.png",
+  "numOrdre": 3
+},
+{
+  "_id": {
+    "$oid": "64833073444d15a73ded4718"
+  },
+  "nom": "Première Pro",
+  "text_1": [],
+  "list": [],
+  "text_2": [],
+  "programme": [],
+  "typeModelFormation": "0",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686319216/smekdoig6nubee0lcurl.png",
+  "numOrdre": 4,
+  "categorie": "PAO"
+},
+{
+  "_id": {
+    "$oid": "648330b9444d15a73ded4726"
+  },
+  "nom": "After Effects",
+  "text_1": [],
+  "list": [],
+  "text_2": [],
+  "programme": [],
+  "typeModelFormation": "0",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686319286/lqlnsdvfmps9vziz2mp5.jpg",
+  "numOrdre": 5,
+  "categorie": "PAO"
+},
+{
+  "_id": {
+    "$oid": "64833161444d15a73ded4734"
+  },
+  "nom": "Dreamweaver",
+  "text_1": [],
+  "list": [],
+  "text_2": [],
+  "programme": [],
+  "typeModelFormation": "0",
+  "photo": "http://res.cloudinary.com/piyushproj/image/upload/v1686319452/tr2o0qgecaplnzumuemw.png",
+  "numOrdre": 6,
+  "categorie": "PAO"
+}]

@@ -1,0 +1,2430 @@
+[{
+  "_id": {
+    "$oid": "64775bd42c76a909f41018e7"
+  },
+  "nom": "CATIA",
+  "text_1": [
+    {
+      "Text_1": "Notre formation Catia est destinée au personnel du bureau d’études afin de pouvoir appréhender le logiciel et monter rapidement en compétence."
+    },
+    {
+      "Text_1": "Cette formation Catia est à forte valeur ajoutée destinée et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_1": "Toutes nos formations Catia sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    }
+  ],
+  "programme": [
+    {
+      "titre": "Introduction à Catia :",
+      "list": [
+        {
+          "name": "Présentation de l'interface"
+        },
+        {
+          "name": "Options et personnalisation"
+        },
+        {
+          "name": "L’arbre de construction : logique et manipulations"
+        },
+        {
+          "name": "Corps de pièce et set géométrique"
+        },
+        {
+          "name": "Système d’axes"
+        },
+        {
+          "name": "La boussole"
+        }
+      ]
+    },
+    {
+      "titre": "Modélisation de pièce Catia : l'ésquisse",
+      "list": [
+        {
+          "name": "Tracer une esquisse"
+        },
+        {
+          "name": "Cotation d’esquisse"
+        },
+        {
+          "name": "Contraintes d'esquisse"
+        },
+        {
+          "name": "Relimitations"
+        },
+        {
+          "name": "Transformation : translation, rotation, symétrie …"
+        },
+        {
+          "name": "Géométrie 3D : projection des éléments 3D, intersection des éléments 3D"
+        },
+        {
+          "name": "Diagnostic d’esquisse"
+        }
+      ]
+    },
+    {
+      "titre": "Composants issus d’un contour :",
+      "list": [
+        {
+          "name": "Création d’éléments de référence : plan, ligne, point"
+        },
+        {
+          "name": "Ajout de matière : Extrusion, révolution, nervure, multi-section…"
+        },
+        {
+          "name": "Enlèvement de matière : poche, gorge, rainure, multi-section…"
+        },
+        {
+          "name": "Divers : Trous, raidisseur"
+        }
+      ]
+    },
+    {
+      "titre": "Composant d’habillage :",
+      "list": [
+        {
+          "name": "Congé"
+        },
+        {
+          "name": "Chanfrein"
+        },
+        {
+          "name": "Dépouille"
+        },
+        {
+          "name": "Coque"
+        },
+        {
+          "name": "Sur-épaisseur"
+        },
+        {
+          "name": "Remplacement de face"
+        }
+      ]
+    },
+    {
+      "titre": "Composant issue d’une surface :",
+      "list": [
+        {
+          "name": "Coupe"
+        },
+        {
+          "name": "Surface épaisse"
+        },
+        {
+          "name": "Remplissage"
+        }
+      ]
+    },
+    {
+      "titre": "Composants de transformation :",
+      "list": [
+        {
+          "name": "Translation"
+        },
+        {
+          "name": "Rotation"
+        },
+        {
+          "name": "Symétrie"
+        },
+        {
+          "name": "Changement de repère"
+        },
+        {
+          "name": "Répétions : rectangulaire, circulaire, personnalisée"
+        },
+        {
+          "name": "Facteur d’échelle"
+        }
+      ]
+    },
+    {
+      "titre": "Opération booléenne :",
+      "list": [
+        {
+          "name": "Ajouter"
+        },
+        {
+          "name": "Retirer"
+        },
+        {
+          "name": "Intersection"
+        },
+        {
+          "name": "Relimitation partielle"
+        }
+      ]
+    },
+    {
+      "titre": "Produit ou Assemblage Catia :",
+      "list": [
+        {
+          "name": "Insérer un composant existant"
+        },
+        {
+          "name": "Nouvelle pièce : dans l’assemblage"
+        },
+        {
+          "name": "Nouveau produit (Nouvel assemblage) : dans l’assemblage"
+        },
+        {
+          "name": "Déplacement / Rotation de composant : utilisation de la boussole"
+        },
+        {
+          "name": "Création des contraintes"
+        },
+        {
+          "name": "Gestion des pièces dans l'assemblage"
+        },
+        {
+          "name": "Multi-instanciation"
+        },
+        {
+          "name": "Symétrie"
+        },
+        {
+          "name": "Fonctions d’assemblage"
+        },
+        {
+          "name": "Gestion des composants : remplacer, charger/décharger,"
+        },
+        {
+          "name": "Gestion des liens"
+        },
+        {
+          "name": "Gestion des enregistrements"
+        }
+      ]
+    },
+    {
+      "titre": "Évaluer :",
+      "list": [
+        {
+          "name": "Mesurer"
+        },
+        {
+          "name": "Propriétés de masse"
+        },
+        {
+          "name": "Stop sur interférence"
+        }
+      ]
+    },
+    {
+      "titre": "Mise en plan Catia :",
+      "list": [
+        {
+          "name": "Vues : vue de face, vue projetée, vue auxiliaire, vue isométrique …"
+        },
+        {
+          "name": "Sections : coupe brisée, coupe dépliée, section brisée, section dépliée"
+        },
+        {
+          "name": "Détails : vue de détail, vue de détail avec profil"
+        },
+        {
+          "name": "Découpes : vue écorchée"
+        },
+        {
+          "name": "Coupes locales : vue interrompue, vue écorchée"
+        },
+        {
+          "name": "Assistant de création de vues"
+        },
+        {
+          "name": "Cotation des vues"
+        },
+        {
+          "name": "Annotations : texte, tableau, référentiel, tolérance géométrique..."
+        },
+        {
+          "name": "Habillage : Traits d’axes, lignes de construction, hachures"
+        },
+        {
+          "name": "Mise en plan de l'assemblage"
+        },
+        {
+          "name": "Création de bulles et nomenclature"
+        },
+        {
+          "name": "Gestion des calques"
+        }
+      ]
+    }
+  ],
+  "duree": "5",
+  "prix": "2490"
+},
+{
+  "_id": {
+    "$oid": "64775be62c76a909f41018e9"
+  },
+  "nom": "SOLIDWORKS",
+  "text_1": [
+    {
+      "Text_1": "Notre formation Solidworks est destinée au personnel du bureau d’études afin de pouvoir appréhender le logiciel et monter rapidement en compétence"
+    },
+    {
+      "Text_1": "Cette Solidworks catia est à forte valeur ajoutée destinée et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_1": "Toutes nos formations Solidworks sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    }
+  ],
+  "programme": [
+    {
+      "titre": "Introduction à Solidworks :",
+      "list": [
+        {
+          "name": "Présentation de l'interface"
+        },
+        {
+          "name": "Options et personnalisation"
+        }
+      ]
+    },
+    {
+      "titre": "Modélisation de pièce Solidworks :",
+      "list": [
+        {
+          "name": "Tracer une esquisse"
+        },
+        {
+          "name": "Manipulation d'esquisse : déplacer, rotation …"
+        },
+        {
+          "name": "Cotation d’esquisse"
+        },
+        {
+          "name": "Contraintes d'esquisse"
+        },
+        {
+          "name": "Duplication d’esquisse : copie, symétrie, répétition"
+        },
+        {
+          "name": "Modification d'esquisse : Avant et Après la création du volume"
+        },
+        {
+          "name": "Diagnostic d’esquisse"
+        }
+      ]
+    },
+    {
+      "titre": "Création de fonctions :",
+      "list": [
+        {
+          "name": "Création d’éléments de référence : plan, ligne, point"
+        },
+        {
+          "name": "Modes de création de fonctions : ajout/enlèvement de matière"
+        },
+        {
+          "name": "Les fonctions : Extrusion, Révolution, Balayage, Lissage…"
+        },
+        {
+          "name": "Trous, Trous taraudé"
+        }
+      ]
+    },
+    {
+      "titre": "Modification de fonctions :",
+      "list": [
+        {
+          "name": "Fonctions d’habillage : Congé et chanfrein"
+        },
+        {
+          "name": "Coque"
+        },
+        {
+          "name": "Dépouille"
+        },
+        {
+          "name": "Nervure"
+        },
+        {
+          "name": "Répétitions : Réseaux rectangulaires et Réseaux polaires"
+        },
+        {
+          "name": "Symétrie"
+        }
+      ]
+    },
+    {
+      "titre": "Manipulation de fonctions :",
+      "list": [
+        {
+          "name": "Copie de fonctions : drag & drop"
+        },
+        {
+          "name": "Réorganisation de fonctions"
+        },
+        {
+          "name": "Masquage de fonctions"
+        }
+      ]
+    },
+    {
+      "titre": "Assemblage dans Solidworks :",
+      "list": [
+        {
+          "name": "Insérer des composants"
+        },
+        {
+          "name": "Nouvelle pièce"
+        },
+        {
+          "name": "Nouvel assemblage"
+        },
+        {
+          "name": "Copier avec les contraintes"
+        },
+        {
+          "name": "Déplacement / Rotation de composant"
+        },
+        {
+          "name": "Création des contraintes"
+        },
+        {
+          "name": "Gestion des pièces dans l'assemblage"
+        },
+        {
+          "name": "Duplication de composants : linéaire, circulaire, pilotée par une répétition..."
+        },
+        {
+          "name": "Composant symétrique"
+        },
+        {
+          "name": "Fonctions d’assemblage"
+        },
+        {
+          "name": "Géométrie de référence"
+        },
+        {
+          "name": "Smart fasteners"
+        },
+        {
+          "name": "Vue éclatée"
+        }
+      ]
+    },
+    {
+      "titre": "Évaluer :",
+      "list": [
+        {
+          "name": "Mesurer"
+        },
+        {
+          "name": "Propriétés de masse"
+        },
+        {
+          "name": "Détection d’interférences"
+        }
+      ]
+    },
+    {
+      "titre": "Mise en plan dans Solidworks :",
+      "list": [
+        {
+          "name": "Les vues : du modèle, standards, projetée, auxiliaire, coupe et section ..."
+        },
+        {
+          "name": "Cotation des vues"
+        },
+        {
+          "name": "Annotations diverses : Nota, référentiel, tolérance géométrique..."
+        },
+        {
+          "name": "Traits d’axes et lignes de construction"
+        },
+        {
+          "name": "Mise en plan de l'assemblage"
+        },
+        {
+          "name": "Création d’un éclaté"
+        },
+        {
+          "name": "Création de bulles"
+        },
+        {
+          "name": "Tables : nomenclature, table de perçage, table générale …"
+        }
+      ]
+    },
+    {
+      "titre": "Gabarit de mise en plan :",
+      "list": [
+        {
+          "name": "Personnalisation des cadres / des cartouches"
+        },
+        {
+          "name": "Mise en place des données de nomenclature et cartouche"
+        },
+        {
+          "name": "Mise en place des cartouches"
+        }
+      ]
+    }
+  ],
+  "duree": "5",
+  "prix": "2490"
+},
+{
+  "_id": {
+    "$oid": "64775bf22c76a909f41018eb"
+  },
+  "nom": "Autodesk Inventor Pro",
+  "text_1": [
+    {
+      "Text_1": "Notre formation Inventor Pro est destinée au personnel du bureau d’études afin de pouvoir appréhender le logiciel et monter rapidement en compétence."
+    },
+    {
+      "Text_1": "Cette formation Inventor Pro est à forte valeur ajoutée destinée et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_1": "Toutes nos formations Inventor Pro sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    }
+  ],
+  "programme": [
+    {
+      "titre": "Présentation du logiciel Inventor Pro",
+      "list": [
+        {
+          "name": "Projets"
+        },
+        {
+          "name": "Espace de travail"
+        },
+        {
+          "name": "Bibliothèques"
+        },
+        {
+          "name": "Options de dossiers"
+        },
+        {
+          "name": "Options"
+        }
+      ]
+    },
+    {
+      "titre": "Créer une esquisse avec Inventor Pro",
+      "list": [
+        {
+          "name": "Dessiner : une ligne, un arc, un cercle ..."
+        },
+        {
+          "name": "Projeter une géométrie 3D dans l'esquisse"
+        },
+        {
+          "name": "Projeter les arrêtes coupées dans l'esquisse"
+        },
+        {
+          "name": "Les contraintes d'esquisse"
+        },
+        {
+          "name": "Créer un réseau : rectangulaire, circulaire, copie miroir"
+        },
+        {
+          "name": "Les outils de modification : déplacer, copier, rotation, prolonger, ajuster ..."
+        },
+        {
+          "name": "Schéma : créer une pièce, créer des composants, créer un bloc"
+        },
+        {
+          "name": "Insérer dans l'esquisse : image, point, fichier Autocad"
+        },
+        {
+          "name": "Format : ligne de construction, trait d'axe, point de centre"
+        }
+      ]
+    },
+    {
+      "titre": "Modéliser une pièce dans Inventor Pro",
+      "list": [
+        {
+          "name": "Créer une fonction : extrusion, révolution, balayage, lissage"
+        },
+        {
+          "name": "Modifier une fonction : perçage, congé, chanfrein,"
+        },
+        {
+          "name": "Fusion et modification de volume : modifier la forme, modifier copie de la forme"
+        },
+        {
+          "name": "Créer un réseau de fonctions : rectangulaire, circulaire, copie miroir"
+        },
+        {
+          "name": "Les fonctions de construction : point, axe, plan système de coordonnées"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils d'inspection",
+      "list": [
+        {
+          "name": "Mesure : Distance, Angle, Boucle, Aire, Propriété de la région"
+        },
+        {
+          "name": "Analyse : zébrures, dépouille, surface, coupe, courbure"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de gestion : Gérer",
+      "list": [
+        {
+          "name": "Mettre à jour"
+        },
+        {
+          "name": "Les paramètres"
+        },
+        {
+          "name": "Les styles et formes"
+        },
+        {
+          "name": "Insérer : dériver, fonction, insérer un objet, importer, insérer une iFonction"
+        },
+        {
+          "name": "Auteur : Créer une iPièce, créer une iContrainte, exporter les objets, extraire une iFonction,"
+        },
+        {
+          "name": "Composants : créer un composant, création de tubes et tuyaux, création d'un connecteur, création de forme de structure"
+        },
+        {
+          "name": "iLogic : ajouter une règle, navigateur iLogic, événement déclencheur, iTrigger, ajouter un formulaire"
+        },
+        {
+          "name": "Centre de contenu : éditeur, publier la fonction, publier la pièce, publier par lot"
+        }
+      ]
+    },
+    {
+      "titre": "Les fonctions d'affichage",
+      "list": [
+        {
+          "name": "Visibilité"
+        },
+        {
+          "name": "Apparence"
+        },
+        {
+          "name": "Fenêtres"
+        },
+        {
+          "name": "Naviguer"
+        }
+      ]
+    },
+    {
+      "titre": "L'assemblage dans Inventor Pro",
+      "list": [
+        {
+          "name": "Placer un composant"
+        },
+        {
+          "name": "Créer un composant"
+        },
+        {
+          "name": "Les outils de duplication : réseau, copie miroir, remplacer, iCopy"
+        },
+        {
+          "name": "Position : contrainte, assembler, déplacer, rotation"
+        },
+        {
+          "name": "Gérer : nomenclature, paramètres,"
+        },
+        {
+          "name": "iPièce/iEnsemble : créer, modifier"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de productivité",
+      "list": [
+        {
+          "name": "créer des attributs, modifier des attributs, enregistrer et remplacer le composant"
+        },
+        {
+          "name": "Lier les niveaux de détail,"
+        },
+        {
+          "name": "dérivée de composant, placer à l'origine du composant,"
+        },
+        {
+          "name": "Renommer les nœuds du navigateur,"
+        },
+        {
+          "name": "bloquer le composant et le définir en tant que composant racine,"
+        },
+        {
+          "name": "analyse de degrés de liberté"
+        }
+      ]
+    },
+    {
+      "titre": "Menu conception",
+      "list": [
+        {
+          "name": "Attacher : assemblage vissé, Axe d'articulation"
+        }
+      ]
+    },
+    {
+      "titre": "Mise en plan Inventor Pro",
+      "list": [
+        {
+          "name": "Créer des vues : base, projetée, auxiliaire, coupe, détail, calque, planche à clou, connecteur, croquis"
+        },
+        {
+          "name": "Modifier : interrompre, vue en coupe locale, section sortie, cadrage"
+        },
+        {
+          "name": "Lier une vue : horizontal, vertical, en position, interrompre l’alignement"
+        },
+        {
+          "name": "Esquisse"
+        },
+        {
+          "name": "Nouvelle feuille"
+        }
+      ]
+    }
+  ],
+  "duree": "5",
+  "prix": "2490"
+},
+{
+  "_id": {
+    "$oid": "64786471d1858fb45543bb1c"
+  },
+  "nom": "PTC CREO",
+  "text_1": [
+    {
+      "Text_1": "Notre formation PTC CREO est destinée au personnel du bureau d’études afin de pouvoir appréhender le logiciel et monter rapidement en compétence."
+    },
+    {
+      "Text_1": "Cette formation PTC CREO est à forte valeur ajoutée destinée et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_1": "Toutes nos formations PTC CREO sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    }
+  ],
+  "programme": [
+    {
+      "titre": "Introduction à PTC CREO :",
+      "list": [
+        {
+          "name": "Présentation de l'interface"
+        },
+        {
+          "name": "Gestion des dossiers de travail"
+        },
+        {
+          "name": "Préférences"
+        },
+        {
+          "name": "Options de configuration et de personnalisation"
+        }
+      ]
+    },
+    {
+      "titre": "Modélisation de pièce dans PTC CREO :",
+      "list": [
+        {
+          "name": "Démarrer une esquisse"
+        },
+        {
+          "name": "Configuration d’esquisse"
+        },
+        {
+          "name": "Éléments de référence"
+        },
+        {
+          "name": "Outils de dessin"
+        },
+        {
+          "name": "Outils de modification"
+        },
+        {
+          "name": "Contraintes d'esquisse"
+        },
+        {
+          "name": "Cotation d’esquisse"
+        },
+        {
+          "name": "Outils d’inspection : diagnostic d’esquisse"
+        },
+        {
+          "name": "Manipulation d'esquisse : déplacer, rotation, dupliquer"
+        }
+      ]
+    },
+    {
+      "titre": "Formes :",
+      "list": [
+        {
+          "name": "Création d’éléments de référence : plan, ligne, point, repère"
+        },
+        {
+          "name": "Les formes : Extrusion, Révolution, Balayage, Lissage…"
+        }
+      ]
+    },
+    {
+      "titre": "Ingénierie : Modification de fonctions",
+      "list": [
+        {
+          "name": "Trous, Trous taraudé"
+        },
+        {
+          "name": "Fonctions d’habillage : Congé et chanfrein"
+        },
+        {
+          "name": "Coque"
+        },
+        {
+          "name": "Dépouille"
+        },
+        {
+          "name": "Nervure"
+        }
+      ]
+    },
+    {
+      "titre": "Modification :",
+      "list": [
+        {
+          "name": "Répétitions : Réseaux rectangulaires et Réseaux polaires"
+        },
+        {
+          "name": "Symétrie"
+        },
+        {
+          "name": "Epaissir"
+        },
+        {
+          "name": "Projeter"
+        }
+      ]
+    },
+    {
+      "titre": "Obtenir les données :",
+      "list": [
+        {
+          "name": "Fonction utilisateur"
+        },
+        {
+          "name": "Copie de géométrie"
+        },
+        {
+          "name": "Enveloppe simplifiée"
+        }
+      ]
+    },
+    {
+      "titre": "Opérations :",
+      "list": [
+        {
+          "name": "Regénérer"
+        },
+        {
+          "name": "Inhiber"
+        },
+        {
+          "name": "Modifier la définition"
+        },
+        {
+          "name": "Modifier/Remplacer les références"
+        },
+        {
+          "name": "Réordonner"
+        }
+      ]
+    },
+    {
+      "titre": "Assemblage dans PTC CREO :",
+      "list": [
+        {
+          "name": "Assembler : Insérer des composants et créer les contraintes"
+        },
+        {
+          "name": "Créer : Nouvelle pièce / Nouvel assemblage"
+        },
+        {
+          "name": "Faire glisser les composants : simulation de l’assemblage"
+        },
+        {
+          "name": "Découpe et surface : réaliser des fonctions d’assemblage"
+        },
+        {
+          "name": "Modificateurs : répétition linéaire, circulaire, symétrie..."
+        },
+        {
+          "name": "Géométries de référence"
+        },
+        {
+          "name": "Vue éclatée"
+        }
+      ]
+    },
+    {
+      "titre": "Analyse :",
+      "list": [
+        {
+          "name": "Mesurer"
+        },
+        {
+          "name": "Propriétés massiques"
+        },
+        {
+          "name": "Détection d’interférences"
+        }
+      ]
+    },
+    {
+      "titre": "Affichage :",
+      "list": [
+        {
+          "name": "Visibilité : couches, cacher/afficher …"
+        },
+        {
+          "name": "Orientation : zoom ‘s’, orientations …"
+        },
+        {
+          "name": "Affichage du modèle : Gérer les vues, Section : coupe 3D, apparences"
+        },
+        {
+          "name": "Afficher : les filtres d’affichage"
+        },
+        {
+          "name": "Fenêtre : gestion des fenêtres actives"
+        }
+      ]
+    },
+    {
+      "titre": "Outils :",
+      "list": [
+        {
+          "name": "Lecture de modèle"
+        },
+        {
+          "name": "Informations : sur le modèle, de la fonction"
+        },
+        {
+          "name": "Liste de fonctions"
+        },
+        {
+          "name": "Visualiser de références"
+        },
+        {
+          "name": "Recherche"
+        },
+        {
+          "name": "Comparer la pièce"
+        },
+        {
+          "name": "Interface de composant"
+        },
+        {
+          "name": "Géométrie publique"
+        }
+      ]
+    },
+    {
+      "titre": "Mise en plan PTC CREO :",
+      "list": [
+        {
+          "name": "Vues du modèle : générale, de projection, détaillée, auxiliaire …"
+        },
+        {
+          "name": "Document : création/configuration de la feuille,"
+        },
+        {
+          "name": "Insérer : objet, graphe …"
+        },
+        {
+          "name": "Edition"
+        },
+        {
+          "name": "Affichage"
+        },
+        {
+          "name": "Format : style de texte, style de ligne …"
+        }
+      ]
+    },
+    {
+      "titre": "Gabarit de mise en plan :",
+      "list": [
+        {
+          "name": "Personnalisation des cadres / des cartouches"
+        },
+        {
+          "name": "Mise en place des données de nomenclature et cartouche"
+        },
+        {
+          "name": "Mise en place des cartouches"
+        }
+      ]
+    }
+  ],
+  "duree": "5",
+  "prix": "2490"
+},
+{
+  "_id": {
+    "$oid": "647864b3d1858fb45543bb1e"
+  },
+  "nom": "Solid Edge",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647876e7d1858fb45543bb68"
+  },
+  "nom": "NX Unigraphics Formations NX (Siemens PLM)",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6478b3cdd1858fb45543bc86"
+  },
+  "nom": "FreeCAD",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6478b495d1858fb45543bca1"
+  },
+  "nom": "Fusion 360",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6478bc16d1858fb45543bce8"
+  },
+  "nom": "BricsCAD",
+  "text_1": [
+    {
+      "Text_1": "Acquérir les bases essentielles du logiciel BricsCAD dessin 2D pour réaliser des dessins industriels, des plans d'architecture ou des dossiers techniques."
+    }
+  ],
+  "programme": [
+    {
+      "titre": "Introduction",
+      "list": [
+        {
+          "name": "Présentation de BricsCAD dessin 2D"
+        },
+        {
+          "name": "Gestion et personnalisation de l'espace de travail"
+        },
+        {
+          "name": "Utilitaires de dessin"
+        },
+        {
+          "name": "Les options"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de dessin",
+      "list": [
+        {
+          "name": "Les points : unique, répartis à égale distance le long d'une courbe, décalés sur une courbe"
+        },
+        {
+          "name": "Les lignes : ligne simple, polyligne, multiligne, droite infinie, demi-droite"
+        },
+        {
+          "name": "Les polygones : rectangle, polygone inscrit à un cercle, polygone circonscrit à un cercle"
+        },
+        {
+          "name": "Les arcs : par 3 points, par le centre, définit par un angle"
+        },
+        {
+          "name": "Les cercles : centre et rayon ou diamètre, par 2 points, par 3 points, tangent"
+        },
+        {
+          "name": "Les ellipses : par les extrémités, par le centre, arc elliptique"
+        },
+        {
+          "name": "Spline"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de modification de courbes",
+      "list": [
+        {
+          "name": "Ajuster une courbe"
+        },
+        {
+          "name": "Prolonger une courbe"
+        },
+        {
+          "name": "Décaler une courbe"
+        }
+      ]
+    },
+    {
+      "titre": "Les outils de transformation",
+      "list": [
+        {
+          "name": "Déplacer une géométrie : entre deux points, le long d'une direction et selon une distance"
+        },
+        {
+          "name": "Copier une géométrie : entre deux points, le long d'une direction et selon une distance"
+        },
+        {
+          "name": "Rotation d'une géométrie"
+        },
+        {
+          "name": "Étirer une géométrie"
+        },
+        {
+          "name": "Mise à l'échelle"
+        },
+        {
+          "name": "Réseau de géométries : rectangulaire, circulaire"
+        },
+        {
+          "name": "Symétrie"
+        }
+      ]
+    },
+    {
+      "titre": "Les calques",
+      "list": [
+        {
+          "name": "Création d'un calque"
+        },
+        {
+          "name": "Geler/Masquer/verrouiller un calque"
+        },
+        {
+          "name": "Gestion de la couleur du calque"
+        },
+        {
+          "name": "Verrouiller l'impression de calque"
+        },
+        {
+          "name": "Modifier les caractéristiques d'un calque : Type de ligne, largeur de ligne ..."
+        },
+        {
+          "name": "Isoler un calque"
+        },
+        {
+          "name": "Naviguer dans les calques"
+        }
+      ]
+    },
+    {
+      "titre": "Insertion",
+      "list": [
+        {
+          "name": "Créer un Bloc"
+        },
+        {
+          "name": "Insérer un bloc"
+        },
+        {
+          "name": "Éditer et modifier un bloc"
+        },
+        {
+          "name": "Créer des attributs de bloc"
+        },
+        {
+          "name": "Éditer et modifier des attributs de bloc"
+        },
+        {
+          "name": "Attacher une référence externe"
+        },
+        {
+          "name": "Lier une référence externe"
+        },
+        {
+          "name": "Ouvrir la référence externe"
+        },
+        {
+          "name": "Rogner une référence externe"
+        },
+        {
+          "name": "Éditer une référence externe dans le dessin"
+        },
+        {
+          "name": "Attacher et travailler à partir d'un PDF"
+        },
+        {
+          "name": "Attacher une image"
+        },
+        {
+          "name": "Gérer l'image"
+        },
+        {
+          "name": "Rogner l'image"
+        },
+        {
+          "name": "Ajuster une image"
+        },
+        {
+          "name": "Modifier les propriétés d'image : qualité, transparence, cadre d'image"
+        },
+        {
+          "name": "Insérer et mettre à jour un champ : créer un texte à partir d'un paramètre"
+        },
+        {
+          "name": "Extraction de données à partir des attributs pour créer des nomenclatures"
+        }
+      ]
+    },
+    {
+      "titre": "Annoter un dessin",
+      "list": [
+        {
+          "name": "Créer un Texte simple ou un texte multi-lignes"
+        },
+        {
+          "name": "Créer des dimensions : linéaire, aligné, rayon/diamètre, angulaire, continue, ligne de base, ordonnée ..."
+        },
+        {
+          "name": "Mettre en forme les dimensions : pivoter le texte de cote, repositionner la dimension, éditer le texte de la dimension ..."
+        },
+        {
+          "name": "Créer des traits d'axe : marques de centre, ligne d'axe"
+        },
+        {
+          "name": "Lignes repère : simple, multiple"
+        },
+        {
+          "name": "Tableaux : tableau simple, tableau d'extraction de données"
+        },
+        {
+          "name": "Utiliser le gestionnaire de style afin de personnaliser : le texte, les dimensions, les lignes de repère, les tableaux"
+        }
+      ]
+    },
+    {
+      "titre": "Créer des dessins Paramétriques",
+      "list": [
+        {
+          "name": "Contraintes Géométriques : coïncidence, concentricité, colinéarité, tangence ..."
+        },
+        {
+          "name": "Contraintes Dimensionnelles : dimensions linéaires, horizontales, verticales, alignées, rayon/diamètre, angulaire ..."
+        },
+        {
+          "name": "Créer des équations en utilisant des paramètres afin"
+        },
+        {
+          "name": "Gestion des contraintes et paramètres afin de piloter des dimensions"
+        },
+        {
+          "name": "Le gestionnaire de l'affichage des contraintes géométriques et dimensionnelles"
+        }
+      ]
+    },
+    {
+      "titre": "Le gestionnaire des vues",
+      "list": [
+        {
+          "name": "Créer une vue"
+        },
+        {
+          "name": "Gérer les vues"
+        },
+        {
+          "name": "Utilisation du Viewports"
+        }
+      ]
+    },
+    {
+      "titre": "Le gestionnaire des sorties",
+      "list": [
+        {
+          "name": "Le gestionnaire de mise en page : définir une imprimante, créer ou attribuer un format de papier, créer ou attribuer une table de style de traçage, enregistrer les paramètres dans un gabarit"
+        },
+        {
+          "name": "Importer un fichier d'un format différent"
+        },
+        {
+          "name": "Exporter en format natif DWF/PDF"
+        }
+      ]
+    },
+    {
+      "titre": "Présentation et création des plans",
+      "list": [
+        {
+          "name": "Présentation"
+        },
+        {
+          "name": "Fenêtre de présentation"
+        },
+        {
+          "name": "Créer une vue"
+        },
+        {
+          "name": "Modifier la vue"
+        },
+        {
+          "name": "Mettre à jour les vues"
+        },
+        {
+          "name": "Styles et normes"
+        },
+        {
+          "name": "Gestion du format (Cadre et cartouche)"
+        }
+      ]
+    }
+  ],
+  "duree": "4",
+  "prix": "1490"
+},
+{
+  "_id": {
+    "$oid": "6479b43f5941c7756660cd4a"
+  },
+  "nom": "T-Flex CAD",
+  "text_1": [
+    {
+      "Text_1": "Notre formation Solidworks est destinée au personnel du bureau d’études afin de pouvoir appréhender le logiciel et monter rapidement en compétence."
+    },
+    {
+      "Text_1": "Cette Solidworks catia est à forte valeur ajoutée destinée et adaptées à tous les secteurs de l’industrie : aéronautique, automobile, ferroviaire …"
+    },
+    {
+      "Text_1": "Toutes nos formations Solidworks sont présentées par des experts dans le domaine du bureau d’étude et de l’ingénierie de tous les secteurs de l’industrie."
+    }
+  ],
+  "programme": [
+    {
+      "titre": "Introduction à Solidworks :",
+      "list": [
+        {
+          "name": "Présentation de l'interface"
+        },
+        {
+          "name": "Options et personnalisation"
+        }
+      ]
+    },
+    {
+      "titre": "Modélisation de pièce Solidworks :",
+      "list": [
+        {
+          "name": "Tracer une esquisse"
+        },
+        {
+          "name": "Manipulation d'esquisse : déplacer, rotation …"
+        },
+        {
+          "name": "Cotation d’esquisse"
+        },
+        {
+          "name": "Contraintes d'esquisse"
+        },
+        {
+          "name": "Duplication d’esquisse : copie, symétrie, répétition"
+        },
+        {
+          "name": "Modification d'esquisse : Avant et Après la création du volume"
+        },
+        {
+          "name": "Diagnostic d’esquisse"
+        }
+      ]
+    },
+    {
+      "titre": "Création de fonctions :",
+      "list": [
+        {
+          "name": "Création d’éléments de référence : plan, ligne, point"
+        },
+        {
+          "name": "Modes de création de fonctions : ajout/enlèvement de matière"
+        },
+        {
+          "name": "Les fonctions : Extrusion, Révolution, Balayage, Lissage…"
+        },
+        {
+          "name": "Trous, Trous taraudé"
+        }
+      ]
+    },
+    {
+      "titre": "Modification de fonctions :",
+      "list": [
+        {
+          "name": "Fonctions d’habillage : Congé et chanfrein"
+        },
+        {
+          "name": "Coque"
+        },
+        {
+          "name": "Dépouille"
+        },
+        {
+          "name": "Nervure"
+        },
+        {
+          "name": "Répétitions : Réseaux rectangulaires et Réseaux polaires"
+        },
+        {
+          "name": "Symétrie"
+        }
+      ]
+    },
+    {
+      "titre": "Manipulation de fonctions :",
+      "list": [
+        {
+          "name": "Copie de fonctions : drag & drop"
+        },
+        {
+          "name": "Réorganisation de fonctions"
+        },
+        {
+          "name": "Masquage de fonctions"
+        }
+      ]
+    },
+    {
+      "titre": "Assemblage dans Solidworks :",
+      "list": [
+        {
+          "name": "Insérer des composants"
+        },
+        {
+          "name": "Nouvelle pièce"
+        },
+        {
+          "name": "Nouvel assemblage"
+        },
+        {
+          "name": "Copier avec les contraintes"
+        },
+        {
+          "name": "Déplacement / Rotation de composant"
+        },
+        {
+          "name": "Création des contraintes"
+        },
+        {
+          "name": "Gestion des pièces dans l'assemblage"
+        },
+        {
+          "name": "Duplication de composants : linéaire, circulaire, pilotée par une répétition..."
+        },
+        {
+          "name": "Composant symétrique"
+        },
+        {
+          "name": "Fonctions d’assemblage"
+        },
+        {
+          "name": "Géométrie de référence"
+        },
+        {
+          "name": "Smart fasteners"
+        },
+        {
+          "name": "Vue éclatée"
+        }
+      ]
+    },
+    {
+      "titre": "Évaluer :",
+      "list": [
+        {
+          "name": "Mesurer"
+        },
+        {
+          "name": "Propriétés de masse"
+        },
+        {
+          "name": "Détection d’interférences"
+        }
+      ]
+    },
+    {
+      "titre": "Mise en plan dans Solidworks :",
+      "list": [
+        {
+          "name": "Les vues : du modèle, standards, projetée, auxiliaire, coupe et section ..."
+        },
+        {
+          "name": "Cotation des vues"
+        },
+        {
+          "name": "Annotations diverses : Nota, référentiel, tolérance géométrique..."
+        },
+        {
+          "name": "Traits d’axes et lignes de construction"
+        },
+        {
+          "name": "Mise en plan de l'assemblage"
+        },
+        {
+          "name": "Création d’un éclaté"
+        },
+        {
+          "name": "Création de bulles"
+        },
+        {
+          "name": "Tables : nomenclature, table de perçage, table générale …"
+        }
+      ]
+    },
+    {
+      "titre": "Gabarit de mise en plan :",
+      "list": [
+        {
+          "name": "Personnalisation des cadres / des cartouches"
+        },
+        {
+          "name": "Mise en place des données de nomenclature et cartouche"
+        },
+        {
+          "name": "Mise en place des cartouches"
+        }
+      ]
+    }
+  ],
+  "duree": "5",
+  "prix": "2490"
+},
+{
+  "_id": {
+    "$oid": "6479beda5941c7756660cd78"
+  },
+  "nom": "Autocad",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6479ef899476c241cd0ebc3e"
+  },
+  "nom": "DraftSight",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6479f0929476c241cd0ebc4a"
+  },
+  "nom": "DraftSight",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6479f5f19476c241cd0ebc5b"
+  },
+  "nom": "Vectorworks",
+  "text_1": [
+    {
+      "Text_1": "Vectorworks est un logiciel de CAO professionnel utilisé pour le dessin, la conception, la présentation et la modélisation de projets en 2D et en 3D. Ce logiciel est développé par Vectorworks Inc."
+    },
+    {
+      "Text_1": "Vectorworks est un excellent programme de rédaction. il vous permet de faire tout ce que vous voulez, avec un grand contrôle sur l’apparence des dessins, et de nombreuses façons d’organiser un ensemble de dessins complet. Il a la capacité de faire des dessins 2D beaux, robustes, lisibles et intelligents."
+    },
+    {
+      "Text_1": "Vectorworks Architect est un logiciel flexible qui peut prendre en charge l’ensemble d’un projet, de la conception au développement de la conception, en passant par les modèles BIM entièrement coordonnés et les documents de construction. Sa polyvalence aide à tout rassembler et augmente l’efficacité de l’exécution et de la documentation des projets."
+    }
+  ],
+  "programme": [
+    {
+      "titre": "Dessin",
+      "list": [
+        {
+          "name": "Introduction"
+        },
+        {
+          "name": "Présentation de l'interface"
+        },
+        {
+          "name": "Paramètres et configuration"
+        }
+      ]
+    },
+    {
+      "titre": "Outils",
+      "list": [
+        {
+          "name": "Outils de conception"
+        },
+        {
+          "name": "Navigateur de contenu"
+        },
+        {
+          "name": "Propriétés"
+        },
+        {
+          "name": "Navigateur de styles"
+        }
+      ]
+    },
+    {
+      "titre": "Construction",
+      "list": [
+        {
+          "name": "Mur, mur rideau, unité de mur rideau"
+        },
+        {
+          "name": "Porte, ouverture, bloc porte/fenêtre"
+        },
+        {
+          "name": "Fenêtre : simple, d'angle"
+        },
+        {
+          "name": "Dalle de toit, toit, dalle"
+        },
+        {
+          "name": "Escalier, garde-corps, tour d'escalier"
+        },
+        {
+          "name": "Espace, générer un espace, zone"
+        },
+        {
+          "name": "Grille"
+        },
+        {
+          "name": "Trame de faux plafond"
+        },
+        {
+          "name": "Formes 3D : boîte, cylindre, cône, voûte en berceau, draper..."
+        },
+        {
+          "name": "Grille : personnalisée améliorée, conversion, de poteaux, poteau, poteau personnalisé, poutre, jambe de force"
+        }
+      ]
+    },
+    {
+      "titre": "Modifications",
+      "list": [
+        {
+          "name": "Déplacer, Déplacer 3D"
+        },
+        {
+          "name": "Rotation, Rotation 3D"
+        },
+        {
+          "name": "Copier : dans le presse papier, avec point de base, le lien"
+        },
+        {
+          "name": "Coller : en tant que bloc, comme hyperlien, vers les coordonnées d'origine, spécial"
+        },
+        {
+          "name": "Réseau : Rectangulaire, polaire, trajectoire, AEC"
+        },
+        {
+          "name": "Aligner : repositionner à partir de, espacer régulièrement, centre, diviser"
+        },
+        {
+          "name": "Placer : en avant, en arrière, au dessus de l'objet, en dessous de l'objet, au premier plan, en arrière plan"
+        },
+        {
+          "name": "Masquer, découper"
+        },
+        {
+          "name": "Fusion, soustraire"
+        },
+        {
+          "name": "Ajuster, ajustement AEC"
+        },
+        {
+          "name": "Prolonger, prolongement AEC"
+        },
+        {
+          "name": "Miroir, échelle, étirer"
+        }
+      ]
+    },
+    {
+      "titre": "Coupe d'élévation",
+      "list": [
+        {
+          "name": "Coupe : verticale, horizontale"
+        },
+        {
+          "name": "Ligne : de coupe, d'élévation"
+        },
+        {
+          "name": "Projection de ligne cachée"
+        },
+        {
+          "name": "Section rapide"
+        },
+        {
+          "name": "Actualiser le dessin courant"
+        }
+      ]
+    },
+    {
+      "titre": "Détail",
+      "list": [
+        {
+          "name": "Composants de détail : fondations, VRD, éléments porteurs, charpente..."
+        }
+      ]
+    },
+    {
+      "titre": "Annoter",
+      "list": [
+        {
+          "name": "Cotes"
+        },
+        {
+          "name": "Cotes AEC : intérieure, extérieur, extérieure ouverture brute"
+        },
+        {
+          "name": "Style de cote AEC"
+        }
+      ]
+    },
+    {
+      "titre": "Nomenclature",
+      "list": [
+        {
+          "name": "Étiquette : de porte, de fenêtre, de pièce"
+        },
+        {
+          "name": "Nomenclature : de porte, de fenêtre, de pièce"
+        },
+        {
+          "name": "Cartouche"
+        },
+        {
+          "name": "Coupe"
+        },
+        {
+          "name": "Élévation : intérieur, extérieur, simple"
+        },
+        {
+          "name": "Contour de détail : cercle, rectangle, forme libre"
+        }
+      ]
+    },
+    {
+      "titre": "Note d'identification",
+      "list": [
+        {
+          "name": "Note d'identification de référence"
+        },
+        {
+          "name": "Légende : de note d'identification de référence, de feuille"
+        },
+        {
+          "name": "Éditeur des notes d'identification"
+        },
+        {
+          "name": "Sélectionner la base de données"
+        },
+        {
+          "name": "Affichage des notes d'identification : de référence, de feuille"
+        }
+      ]
+    },
+    {
+      "titre": "Annotation",
+      "list": [
+        {
+          "name": "Révision"
+        },
+        {
+          "name": "Masque, nettoyage"
+        },
+        {
+          "name": "Charger le fichier DWF d'annotation"
+        },
+        {
+          "name": "Gestionnaire des jeux d'annotation"
+        },
+        {
+          "name": "Échelle d'annotation : ajouter/supprimer, liste"
+        }
+      ]
+    }
+  ],
+  "duree": "2",
+  "prix": "1190"
+},
+{
+  "_id": {
+    "$oid": "6479fcae9476c241cd0ebc94"
+  },
+  "nom": "Revit",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6479ff1e9476c241cd0ebc9d"
+  },
+  "nom": "LibreCAD",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647a07769476c241cd0ebcae"
+  },
+  "nom": "Rhinoceros 3D",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647a09139476c241cd0ebcc0"
+  },
+  "nom": "Sketchup",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647a0a149476c241cd0ebcc9"
+  },
+  "nom": "Keyshot",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647a0c3e9476c241cd0ebcd5"
+  },
+  "nom": "V-Ray",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647a0e569476c241cd0ebce1"
+  },
+  "nom": "impression 3D",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647a16a39476c241cd0ebd03"
+  },
+  "nom": "Dessin Industriel",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647a193d9476c241cd0ebd11"
+  },
+  "nom": "Tolérancement ISO et Cotation fonctionnelle",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647a218a9476c241cd0ebd26"
+  },
+  "nom": "Dessin du bâtiment",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "647a24449476c241cd0ebd3b"
+  },
+  "nom": "Tuyauterie industrielle",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64819eed5f4fed7911918acf"
+  },
+  "nom": "AUTOCAD Plant 3D",
+  "text_1": [
+    {
+      "Text_1": "Autocad Plant 3D est un logiciel de conception d'installation d'usine. Ce logiciel est utilisé pour concevoir et documenter les installations d'usines de traitement."
+    },
+    {
+      "Text_1": "Autocad Plant 3D contient diverses formes prédéfinies de composants d'installation. Ces formes prédéfinies, qui sont des modèles solides, portent l'intelligence des dessins Autocad Plant 3D. Lors de l'installation d'Autocad Plant 3D, les spécifications standard et les catalogues de pièces liés à la tuyauterie sont également installés."
+    },
+    {
+      "Text_1": "Autocad Plant 3D est livré avec Autocad P&ID qui est utilisé pour créer des dessins de tuyauterie et d'instrumentation. Autocad P&ID contient divers symboles de tuyauterie et d'instrumentation. Ces symboles, dont la plupart sont des blocs Autocad avec des attributs, portent l'intelligence des dessins Autocad P&ID."
+    }
+  ],
+  "programme": [
+    {
+      "titre": "Introduction à Autocad Plant 3D",
+      "list": [
+        {
+          "name": "L'interface utilisateur"
+        },
+        {
+          "name": "Créer un nouveau projet"
+        },
+        {
+          "name": "Gestionnaire de données"
+        },
+        {
+          "name": "Palettes de propriétés"
+        },
+        {
+          "name": "Les différents espaces de travail"
+        },
+        {
+          "name": "Les poignées"
+        },
+        {
+          "name": "La palettes d'outils"
+        }
+      ]
+    },
+    {
+      "titre": "La palette d'outils",
+      "list": [
+        {
+          "name": "La palette P&ID"
+        },
+        {
+          "name": "La palette 3D Piping"
+        }
+      ]
+    },
+    {
+      "titre": "Créer et gérer des projets",
+      "list": [
+        {
+          "name": "Utilisation du \"Project manager\" ou le gestionnaire du projet"
+        },
+        {
+          "name": "Création d'un nouveau projet"
+        },
+        {
+          "name": "Création de nouveau dessin"
+        },
+        {
+          "name": "Gestion des dossiers et des fichiers de dessin"
+        }
+      ]
+    },
+    {
+      "titre": "Dessiner un P&ID",
+      "list": [
+        {
+          "name": "Ajouter des équipements à un P&ID"
+        },
+        {
+          "name": "Ajouter des lignes de canalisation"
+        },
+        {
+          "name": "Attribuer des étiquettes aux lignes"
+        },
+        {
+          "name": "Attribuer des catégories de service personnalisés à une ligne"
+        },
+        {
+          "name": "Créer et ajouter des segments de canalisation personnalisé à la palette d'outils"
+        },
+        {
+          "name": "Ajouter des étiquettes personnalisées au segments de lignes de canalisation"
+        },
+        {
+          "name": "Ajouter des vannes"
+        },
+        {
+          "name": "Ajouter des instruments"
+        },
+        {
+          "name": "Ajouter des lignes d'instrumentation"
+        },
+        {
+          "name": "Ajouter des raccords"
+        },
+        {
+          "name": "Ajouter des raccords"
+        },
+        {
+          "name": "Connecter les hors-page"
+        },
+        {
+          "name": "Valider les dessins"
+        },
+        {
+          "name": "Vérifier les erreurs"
+        },
+        {
+          "name": "Déplacer un équipement : vanne, raccord ..."
+        },
+        {
+          "name": "Editer et déplacer une ligne"
+        },
+        {
+          "name": "Editer un symbol P&ID"
+        },
+        {
+          "name": "Remplacer un composant"
+        },
+        {
+          "name": "Convertir un composant Autocad en un composant P&ID"
+        },
+        {
+          "name": "Ajouter de l'intelligence aux symboles P&ID personnalisés"
+        },
+        {
+          "name": "Editer les propriétés des symbol P&ID personnalisés"
+        }
+      ]
+    },
+    {
+      "titre": "Travaux dirigés P&ID ",
+      "list": [
+        {
+          "name": "Création d'un schémas P&ID en plaçant des équipements, des instruments, des équipements et les connecter par des lignes."
+        }
+      ]
+    },
+    {
+      "titre": "Créer une structure",
+      "list": [
+        {
+          "name": "Créer et éditer une grille"
+        },
+        {
+          "name": "Définition de la représentation de l'élément structurel"
+        },
+        {
+          "name": "Ajouter un élément de structure ou un profilé"
+        },
+        {
+          "name": "Créer et éditer des escaliers"
+        },
+        {
+          "name": "Créer des garde-corps"
+        },
+        {
+          "name": "Créer une échelle"
+        },
+        {
+          "name": "Créer une plaque ou un caillebotis"
+        },
+        {
+          "name": "Créer un sous-bassement"
+        },
+        {
+          "name": "Editer les éléments de structure"
+        },
+        {
+          "name": "Modéfier la longueur et couper des poutres"
+        },
+        {
+          "name": "Ajuster et prolonger des membres de structure"
+        },
+        {
+          "name": "Les options de visibilité"
+        },
+        {
+          "name": "Extraire les données avec d'autres applications"
+        }
+      ]
+    },
+    {
+      "titre": "Travaux dirigés de structure ",
+      "list": [
+        {
+          "name": "Dans ces travaux dirigés nous allons créer une structure de soutien d'installation de tuyauterie à partir de profilés standard."
+        }
+      ]
+    },
+    {
+      "titre": "Les équipements dans Autocad Plant 3D",
+      "list": [
+        {
+          "name": "Créer un équipement"
+        },
+        {
+          "name": "Placer un équipement dans un dessin"
+        },
+        {
+          "name": "Créer un équipement personnalisé"
+        },
+        {
+          "name": "Modifié un équipement"
+        },
+        {
+          "name": "Convertir un modèle solide en un équipement"
+        },
+        {
+          "name": "Convertir un modèle Inventor en un équipement"
+        },
+        {
+          "name": "Attacher des objets à un équipement"
+        },
+        {
+          "name": "Détacher des objets d'un équipement"
+        },
+        {
+          "name": "Ajouter des buses à un équipement personnalisé"
+        },
+        {
+          "name": "Ajouter des buses à un équipement converti"
+        },
+        {
+          "name": "Modifier les buses"
+        }
+      ]
+    },
+    {
+      "titre": "Travaux dirigés équipement ",
+      "list": [
+        {
+          "name": "Dans ces travaux dirigés nous allons créer des équipements dans le but de les placer dans une installation 3D."
+        }
+      ]
+    },
+    {
+      "titre": "Routage de lignes de tuyauteries",
+      "list": [
+        {
+          "name": "Sélectionner un fichier de spécifications"
+        },
+        {
+          "name": "Travailler avec le visualiseur de spécifications"
+        },
+        {
+          "name": "Router une ligne de tuyauterie avec un nouveau numéro de ligne"
+        },
+        {
+          "name": "Définition de la ligne de tuyauterie"
+        },
+        {
+          "name": "Router une canalisation à partir d'une ligne"
+        },
+        {
+          "name": "Router une canalisation en utilisant un P&ID"
+        },
+        {
+          "name": "Router une canalisation à partir d'un équipement"
+        },
+        {
+          "name": "Travailler avec la boussole"
+        },
+        {
+          "name": "Connecter deux extrémités de canalisation ouvertes"
+        },
+        {
+          "name": "Création d'un coude de réduction"
+        },
+        {
+          "name": "Création d'un coude roulé"
+        },
+        {
+          "name": "Tube cintré"
+        },
+        {
+          "name": "Router avec un décalage"
+        },
+        {
+          "name": "Router avec une élévation"
+        },
+        {
+          "name": "Créer une branche en Té"
+        },
+        {
+          "name": "Ajouter un O-let"
+        },
+        {
+          "name": "Créer une sous-branche"
+        },
+        {
+          "name": "Créer une branche à partir d'un coude"
+        },
+        {
+          "name": "Ajouter un coussinet de renfort"
+        },
+        {
+          "name": "Connexion soudée"
+        }
+      ]
+    },
+    {
+      "titre": "Travaux dirigés routage de ligne de tuyauterie ",
+      "list": [
+        {
+          "name": "Dans ces travaux dirigés nous allons connecter les équipements des travaux dirigé précédent et en utilisant la structure précédemment dessinée dans le but de créer une installation 3D."
+        }
+      ]
+    },
+    {
+      "titre": "Ajouter des vannes, des raccords et des supports",
+      "list": [
+        {
+          "name": "Ajouter des vannes et des raccords en utilisant les spécifications"
+        },
+        {
+          "name": "Ajouter des vannes et des raccords en utilisant le P&ID"
+        },
+        {
+          "name": "Placer des vannes et des raccords en routant des lignes"
+        },
+        {
+          "name": "Placer des pièces personnalisées"
+        },
+        {
+          "name": "Mapper un objet P&ID à un objet Plant 3D"
+        },
+        {
+          "name": "Ajouter un support de tuyauterie"
+        },
+        {
+          "name": "Isoler une tuyauterie"
+        },
+        {
+          "name": "Modifier les composants de tuyauterie en utilisant les poignées"
+        },
+        {
+          "name": "Valider le modèle 3D"
+        }
+      ]
+    },
+    {
+      "titre": "Travaux dirigés ajouter une vanne, raccord ou support",
+      "list": [
+        {
+          "name": "Dans ces travaux dirigés nous allons ajouter des vannes, des raccords et des supports à l'installation précédemment dessinée."
+        }
+      ]
+    },
+    {
+      "titre": "Créer des dessins Isométrique",
+      "list": [
+        {
+          "name": "Créer un dessin isométrique rapide"
+        },
+        {
+          "name": "Créer un dessin isométrique de production"
+        },
+        {
+          "name": "Placer des message et des annotations dans les dessins isométriques"
+        },
+        {
+          "name": "Exporter un fichier de composant de tuyauterie"
+        },
+        {
+          "name": "Verrouiller un numéro de ligne"
+        },
+        {
+          "name": "Configuration des paramètres de dessin isométrique"
+        }
+      ]
+    },
+    {
+      "titre": "Travaux dirigés dessin isométrique ",
+      "list": [
+        {
+          "name": "Dans ces travaux dirigés nous allons créer des dessins isométriques à partir de l'installation précédemment dessinée."
+        }
+      ]
+    },
+    {
+      "titre": "Créer des dessins orthographiques",
+      "list": [
+        {
+          "name": "Générer des vues"
+        },
+        {
+          "name": "Le cube ortho"
+        },
+        {
+          "name": "Créer des vues adjacentes"
+        },
+        {
+          "name": "Ajouter des annotations aux vues"
+        },
+        {
+          "name": "Ajouter une nomenclature"
+        },
+        {
+          "name": "Annoter les composants dans les vues"
+        }
+      ]
+    },
+    {
+      "titre": "Travaux dirigés Dessin orthographique",
+      "list": [
+        {
+          "name": "Dans ces travaux dirigés nous allons créer des plans et les préparer afin de les présenter à partir de l'installation précédemment dessinée."
+        }
+      ]
+    },
+    {
+      "titre": "Gestion des données et création de rapports",
+      "list": [
+        {
+          "name": "Le gestionnaire de données"
+        },
+        {
+          "name": "Visualiser les données dans le gestionnaire des données"
+        },
+        {
+          "name": "Modifier l'affichage des données"
+        },
+        {
+          "name": "Zoom sur les objets 3D à partir du gestionnaire de données"
+        },
+        {
+          "name": "Edition des données dans le gestionnaire des données"
+        },
+        {
+          "name": "Placer des annotations dans le P&ID en utilisant le gestionnaire de données"
+        },
+        {
+          "name": "Filtrer les données dans la table de données"
+        },
+        {
+          "name": "Exporter les données à partir du gestionnaire de données"
+        },
+        {
+          "name": "Importer des données dans le gestionnaire de données"
+        },
+        {
+          "name": "Visualiser les rapports dans le gestionnaire de données"
+        },
+        {
+          "name": "Générer des rapports avec le créateur de rapport"
+        }
+      ]
+    },
+    {
+      "titre": "Travaux dirigés gestionnaire de données ",
+      "list": [
+        {
+          "name": "Dans ces travaux dirigés nous allons créer des rapports en utilisant le gestionnaire de données à partir de l'installation précédemment dessinée."
+        }
+      ]
+    }
+  ],
+  "duree": "3",
+  "prix": "1490"
+},
+{
+  "_id": {
+    "$oid": "6482ebf9444d15a73ded44f9"
+  },
+  "nom": "Keyshot",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64830243444d15a73ded4589"
+  },
+  "nom": "Word",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "6483066e444d15a73ded45d2"
+  },
+  "nom": "Excel",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "648307e7444d15a73ded45e8"
+  },
+  "nom": "PowerPoint",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64831f7c444d15a73ded4606"
+  },
+  "nom": "Outlook",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64832966444d15a73ded4626"
+  },
+  "nom": "Publisher",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64832d1f444d15a73ded4644"
+  },
+  "nom": "OneNote",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64832e81444d15a73ded46ca"
+  },
+  "nom": "Photoshop",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64832f6d444d15a73ded46ee"
+  },
+  "nom": "Illustrator",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64832fde444d15a73ded4704"
+  },
+  "nom": "Illustrator",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64833073444d15a73ded471a"
+  },
+  "nom": "Première Pro",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "648330b9444d15a73ded4728"
+  },
+  "nom": "After Effects",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "64833161444d15a73ded4736"
+  },
+  "nom": "Dreamweaver",
+  "text_1": [],
+  "programme": []
+},
+{
+  "_id": {
+    "$oid": "649429a6150fd96bb669b1d3"
+  },
+  "nom": "ssss",
+  "text_1": [],
+  "programme": []
+}]
